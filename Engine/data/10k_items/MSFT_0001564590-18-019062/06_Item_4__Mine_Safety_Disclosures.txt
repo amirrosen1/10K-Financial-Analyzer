@@ -1,0 +1,80 @@
+Item 4. Mine Safety Disclosures
+
+PART I
+Item 1B, 2, 3, 4
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+We have received no written comments regarding our periodic or current reports from the staff of the Securities and
+Exchange Commission that were issued 180 days or more preceding the end of our fiscal year 2018 that remain
+unresolved.
+ITEM 2. PROPERTIES
+Our corporate headquarters are located in Redmond, Washington. We have approximately 15 million square feet of
+space located in King County, Washington that is used for engineering, sales, marketing, and operations, among other
+general and administrative purposes. These facilities include approximately 10 million square feet of owned space
+situated on approximately 540 acres of land we own at our corporate headquarters, and approximately five million
+square feet of space we lease. In addition, we own and lease space domestically that includes office, datacenter, and
+retail space.
+We also own and lease facilities internationally. The largest owned properties include: our research and development
+centers in China and India; our datacenters in Ireland, Singapore, and the Netherlands; and our operations and
+facilities in Ireland and the United Kingdom. The largest leased properties include space in the following locations:
+India, China, France, the United Kingdom, Canada, Australia, Germany, and Japan.
+In addition to the above locations, we have various product development facilities, both domestically and internationally,
+as described under Research and Development (Part I, Item 1 of this Form 10-K).
+The table below shows a summary of the square footage of our office, datacenter, retail, and other facilities owned and
+leased domestically and internationally as of June 30, 2018:
+(Square feet in millions)
+Location Owned Leased Total
+U.S. 18 13 31
+International 6 13 19
+Total 24 26 50
+ITEM 3. LEGAL PROCEEDINGS
+While not material to the Company, the Company makes the following annual report of the general activities of the
+Company’s Antitrust Compliance Office as required by the Final Order and Judgment in Barovic v. Ballmer et al, United
+States District Court for the Western District of Washington (“Final Order”). For more information see
+http://aka.ms/MSLegalNotice2015. These annual reports will continue through 2020. During fiscal year 2018, the
+Antitrust Compliance Office (a) monitored the Company’s compliance with the European Commission Decision of
+March 24, 2004, (“2004 Decision”) and with the Company’s Public Undertaking to the European Commission dated
+December 16, 2009 (“2009 Undertaking”); (b) monitored, in the manner required by the Final Order, employee,
+customer, competitor, regulator, or other third-party complaints regarding compliance with the 2004 Decision, the 2009
+Undertaking, or other EU or U.S. laws or regulations governing tying, bundling, and exclusive dealing contracts; and,
+(c) monitored, in the manner required by the Final Order, the training of the Company’s employees regarding the
+Company’s antitrust compliance polices. In addition, the Antitrust Compliance Officer reports to the Regulatory and
+Public Policy Committee of the Board at each of its regularly scheduled meetings and to the full Board annually.
+Refer to Note 17 – Contingencies of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for information
+regarding legal proceedings in which we are involved.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+29
+PART II
+Item 5
+PART II
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER
+PURCHASES OF EQUITY SECURITIES
+MARKET AND STOCKHOLDERS
+Our common stock is traded on the NASDAQ Stock Market under the symbol MSFT. On July 31, 2018, there were
+97,535 registered holders of record of our common stock. The high and low common stock sales prices per share were
+as follows:
+Quarter Ended September 30 December 31 March 31 June 30 Fiscal Year
+Fiscal Year 2018
+High $ 75.97 $ 87.50 $ 97.24 $ 102.69 $ 102.69
+Low 68.02 73.71 83.83 87.51 68.02
+Fiscal Year 2017
+High $ 58.70 $ 64.10 $ 66.19 $ 72.89 $ 72.89
+Low 50.39 56.32 61.95 64.85 50.39
+DIVIDENDS AND SHARE REPURCHASES
+Refer to Note 18 – Stockholders’ Equity of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for
+further discussion regarding dividends and share repurchases. Following are our monthly stock repurchases for the
+fourth quarter of fiscal year 2018:
+Total Number of
+Shares Purchased as Approximate Dollar Value of
+Total Number Average Part of Publicly Shares that May Yet be
+of Shares Price Paid Announced Plans Purchased under the Plans
+Period Purchased per Share or Programs or Programs
+(in millions)
+April 1, 2018 – April 30, 2018 10,320,190 $ 93.11 10,320,190 $ 29,339
+May 1, 2018 – May 31, 2018 0 0 0 29,339
+June 1, 2018 – June 30, 2018 11,335,224 100.49 11,335,224 28,200
+21,655,414 21,655,414
+All repurchases were made using cash resources. Our stock repurchases may occur through open market purchases
+or pursuant to a Rule 10b5-1 trading plan. The above table excludes shares repurchased to settle employee tax
+withholding related to the vesting of stock awards.
+30

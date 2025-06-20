@@ -1,0 +1,48 @@
+Item 9B. Other Information
+
+Table of Contents
+PART II
+Item 8
+• Computing and Gaming Hardware, comprising: Xbox gaming and entertainment consoles and accessories,
+second-party and third-party video game royalties, and Xbox Live subscriptions (“Xbox Platform”); Surface
+devices and accessories (“Surface”); and Microsoft PC accessories.
+• Phone Hardware, comprising: Lumia phones and other non-Lumia phones, beginning with our acquisition of
+NDS.
+• D&C Other, comprising: Resale, consisting of transactions in our Windows Store and Xbox marketplace; search
+advertising; display advertising; Office 365 Consumer, comprising Office 365 Home and Office 365 Personal;
+Studios, comprising first-party video games; Mojang; non-Microsoft products sold in our retail stores; and certain
+other consumer products and services not included in the categories above.
+Commercial
+Our Commercial segments develop, market, and support software and services designed to increase individual, team, and
+organizational productivity and efficiency, including simplifying everyday tasks through seamless operations across the
+user’s hardware and software. Our Commercial segments are:
+• Commercial Licensing, comprising: server products, including Windows Server, Microsoft SQL Server, Visual
+Studio, System Center, and related Client Access Licenses (“CALs”); Windows Embedded; volume licensing of
+the Windows operating system, excluding academic (“Windows Commercial”); Microsoft Office for business,
+including Office, Exchange, SharePoint, Skype for Business, and related CALs (“Office Commercial”); Microsoft
+Dynamics business solutions, excluding Dynamics CRM Online; and Skype.
+• Commercial Other, comprising: Enterprise Services, including Premier Support Services and Microsoft
+Consulting Services; Commercial Cloud, comprising Office 365 Commercial, other Microsoft Office online
+offerings, Dynamics CRM Online, and Microsoft Azure; and certain other commercial products and online
+services not included in the categories above.
+Revenue and cost of revenue are generally directly attributed to our segments. Certain revenue contracts are allocated
+among the segments based on the relative value of the underlying products and services, which can include allocation
+based on actual prices charged, prices when sold separately, or estimated costs plus a profit margin. Cost of revenue is
+directly charged to our hardware segments. For the remaining segments, cost of revenue is directly charged in most cases
+and allocated in certain cases, generally using a relative revenue methodology.
+We do not allocate operating expenses to our segments. Rather, we allocate them to our two segment groups, Devices
+and Consumer and Commercial. Due to the integrated structure of our business, allocations of expenses are made in
+certain cases to incent cross-collaboration among our segment groups so that a segment group is not solely burdened by
+the cost of a mutually beneficial activity as we seek to deliver seamless experiences across devices, whether on-premises
+or in the cloud.
+Operating expenses are attributed to our segment groups as follows:
+• Sales and marketing expenses are primarily recorded directly to each segment group based on identified
+customer segment.
+• Research and development expenses are primarily shared across the segment groups based on relative gross
+margin but are mapped directly in certain cases where the value of the expense only accrues to that segment
+group.
+• General and administrative expenses are primarily allocated based on relative gross margin.
+Certain corporate-level activity is not allocated to our segment groups, including costs of: legal, including expenses,
+settlements, and fines; information technology; human resources; finance; excise taxes; and impairment, integration, and
+restructuring expenses.
+93

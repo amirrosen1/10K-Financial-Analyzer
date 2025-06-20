@@ -1,0 +1,1 @@
+1,835 1,163 0 Corporate securities 54,586 275 (252) 54,609 0 8,077 46,532 Municipal securities 6,257 45 (22) 6,280 4 1,114 5,162 Mortgage- and asset-backed securities 16,396 23 (89) 16,330 0 8 16,322 Subtotal 132,646 414 (599 ) 132,461 3,761 22,485

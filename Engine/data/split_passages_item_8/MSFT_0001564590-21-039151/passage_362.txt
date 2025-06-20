@@ -1,0 +1,1 @@
+consists of our public, private, and hybrid server products and cloud services that can power modern business and developers. This segment primarily comprises: • Server products and cloud services, including Azure; SQL Server, Windows Server, Visual Studio, System Center, and

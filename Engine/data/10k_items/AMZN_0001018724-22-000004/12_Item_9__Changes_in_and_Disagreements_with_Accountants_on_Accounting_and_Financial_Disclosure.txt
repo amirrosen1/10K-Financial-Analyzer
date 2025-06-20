@@ -1,0 +1,36 @@
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Table of Contents
+The items accounting for differences between income taxes computed at the federal statutory rate and the provision recorded
+for income taxes are as follows (in millions):
+Year Ended December 31,
+2020 2021 2022
+Income taxes computed at the federal statutory rate $ 5,078 $ 8,012 $ (1,246)
+Effect of:
+Tax impact of foreign earnings and losses (538) (1,349) (370)
+State taxes, net of federal benefits 343 465 (173)
+Tax credits (639) (1,136) (1,006)
+Stock-based compensation (1) (1,107) (1,094) 612
+Foreign income deduction (2) (372) (301) (1,258)
+Other, net 98 194 224
+Total $ 2,863 $ 4,791 $ (3,217)
+___________________
+(1) Includes non-deductible stock-based compensation and excess tax benefits or shortfalls from stock-based compensation. Our
+tax provision includes $1.8 billion and $1.9 billion of excess tax benefits from stock-based compensation for 2020 and 2021,
+and a $33 million tax shortfall from stock-based compensation for 2022.
+(2) U.S. companies are eligible for a deduction that lowers the effective tax rate on certain foreign income. This regime is referred
+to as the Foreign-Derived Intangible Income deduction.
+Our provision for income taxes in 2021 was higher than in 2020 primarily due to an increase in pretax income. This was
+partially offset by an increase in U.S. federal research and development credits and the impact of the distribution of certain
+intangible assets from Luxembourg to the U.S. in Q4 2021, resulting in the utilization of $2.6 billion of Luxembourg deferred tax
+assets previously subject to a valuation allowance.
+We generated an income tax benefit in 2022 as compared to a provision for income taxes in 2021 primarily due to a decrease
+in pretax income and an increase in the foreign income deduction. This was partially offset by a reduction in excess tax benefits
+from stock-based compensation and a decrease in the tax impact of foreign earnings and losses driven by a decline in the favorable
+effects of corporate restructuring transactions. The foreign income deduction benefit recognized in 2022 reflects a change in our
+application of tax regulations related to the computation of qualifying foreign income and includes an income tax benefit of
+approximately $655 million related to years prior to 2022.
+We intend to invest substantially all of our foreign subsidiary earnings, as well as our capital in our foreign subsidiaries,
+indefinitely outside of the U.S. in those jurisdictions in which we would incur significant, additional costs upon repatriation of such
+amounts.
+63

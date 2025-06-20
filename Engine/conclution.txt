@@ -1,0 +1,44 @@
+LLM:
+for year and name extraction:
+bad prompt:
+
+prompt = """
+You are an intelligent assistant specialized in analyzing SEC 10-K filings.
+
+Your task is to extract:
+1. The **name of the company** submitting the form.
+2. The **year** the form was submitted.
+
+Please return the result in **valid JSON** using the following format:
+
+{
+  "company_name": "<extracted_name>",
+  "year": <extracted_year>
+}
+
+Make sure:
+- The company name is accurate and complete (avoid abbreviations unless they are part of the official name).
+- The year is a 4-digit integer.
+- If you're unsure, make your best guess based on the available data.
+
+Below is the first page of the 10-K document:
+<page>
+"""
+
+better prompt:
+prompt = """
+Extract the company name and the filing year from the first page of this 10-K form.
+
+Return your answer in the following JSON format:
+{
+  "company_name": "<company name>",
+  "year": <year>
+}
+
+10-K first page:
+<page>
+"""
+
+
+Steps we did to improve:
+query processing - for embeddings, for LLM retrieval

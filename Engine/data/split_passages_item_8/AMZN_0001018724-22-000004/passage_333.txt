@@ -1,0 +1,1 @@
+8,326,611, both entitled “Acoustic Voice Activity Detection (AVAD) for Electronic Systems”; 8,467,543, entitled “Microphone and Voice Activity Detection (VAD) Configurations for Use with Communications Systems”; 8,503,691, entitled “Virtual Microphone Arrays Using Dual Omnidirectional Microphone Array (DOMA)”; 10,779,080, entitled “Dual Omnidirectional

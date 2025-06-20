@@ -1,0 +1,1 @@
+services provided on a consumption basis, such as the amount of storage used in a period, is recognized based on the customer utilization of such resources. When cloud services require a significant level of integration and interdependency with software and

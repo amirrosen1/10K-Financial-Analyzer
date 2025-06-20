@@ -1,0 +1,1 @@
+items 1,550 1,609 Restructuring charges 66 284 Unearned revenue 1,889 494 Impaired investments 59 226 Loss carryforwards 4,809 4,252 Depreciation and amortization 53 115 Other revenue items 130 89 Deferred income tax assets 9,333 7,878 Less valuation allowance (3,310) (4,729)

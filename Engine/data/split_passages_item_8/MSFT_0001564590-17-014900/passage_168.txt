@@ -1,0 +1,1 @@
+0 0 Commercial paper 319 0 0 319 69 250 0 Certificates of deposit 1,358 0 0 1,358 972 386 0 U.S. government and agency securities 112,119 85 (360) 111,844 16 111,828 0 Foreign government bonds 5,276 2 (13) 5,265

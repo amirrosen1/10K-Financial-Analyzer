@@ -1,0 +1,1 @@
+Cube, and Echo Buds infringe U.S. Patent Nos. 7,246,058, entitled “Detecting Voiced and Unvoiced Speech Using Both Acoustic and Nonacoustic Sensors”; 8,019,091, entitled “Voice Activity Detector (VAD)-Based Multiple-Microphone Acoustic Noise Suppression”; 8,280,072, entitled “Microphone Array with Rear Venting”; 8,321,213 and

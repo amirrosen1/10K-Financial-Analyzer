@@ -1,0 +1,1 @@
+Acceleration Bay, LLC filed a complaint against Amazon Web Services, Inc. in the United States District Court for the District of Delaware. The complaint alleges, among other things, that Amazon EC2, Amazon CloudFront, AWS Lambda, Amazon Lumberyard, Luna, Amazon Prime

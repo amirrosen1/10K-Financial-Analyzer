@@ -1,0 +1,12 @@
+[
+    {
+        "company": "Apple",
+        "year": 2018,
+        "total_net_sales": 265595
+    },
+    {
+        "company": "Apple",
+        "year": 2019,
+        "total_net_sales": 260174
+    }
+]

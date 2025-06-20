@@ -1,0 +1,1 @@
+0 0 1,546 1,546 0 0 Mutual funds 2,531 1 (132) 2,400 0 2,400 0 Subtotal 4,077 1 (132 ) 3,946 1,546 2,400 0 Level 2: U.S. Treasury securities 23,140 15 (9) 23,146 12 607 22,527 U.S. agency securities 7,373

@@ -1,0 +1,50 @@
+Item 9B. Other Information
+
+Table of Contents
+Note 10 — SEGMENT INFORMATION
+We have organized our operations into three segments: North America, International, and AWS. We allocate to segment
+results the operating expenses “Fulfillment,” “Technology and infrastructure,” “Sales and marketing,” and “General and
+administrative” based on usage, which is generally reflected in the segment in which the costs are incurred. The majority of
+technology costs recorded in “Technology and infrastructure” are incurred in the U.S. and are included in our North America and
+AWS segments. The majority of infrastructure costs recorded in “Technology and infrastructure” are allocated to the AWS segment
+based on usage. There are no internal revenue transactions between our reportable segments. Our chief operating decision maker
+(“CODM”) regularly reviews consolidated net sales, consolidated operating expenses, and consolidated operating income (loss) by
+segment. Amounts included in consolidated operating expenses include “Cost of sales,” “Fulfillment,” “Technology and
+infrastructure,” “Sales and marketing,” “General and administrative,” and “Other operating expense (income), net.” Our CODM
+manages our business by reviewing annual forecasts and consolidated results by segment on a quarterly basis.
+North America
+The North America segment primarily consists of amounts earned from retail sales of consumer products (including from
+sellers) and advertising and subscription services through North America-focused online and physical stores. This segment includes
+export sales from these online stores.
+International
+The International segment primarily consists of amounts earned from retail sales of consumer products (including from
+sellers) and advertising and subscription services through internationally-focused online stores. This segment includes export sales
+from these internationally-focused online stores (including export sales from these online stores to customers in the U.S., Mexico,
+and Canada), but excludes export sales from our North America-focused online stores.
+AWS
+The AWS segment consists of amounts earned from global sales of compute, storage, database, and other services for start-
+ups, enterprises, government agencies, and academic institutions.
+Information on reportable segments and reconciliation to consolidated net income (loss) is as follows (in millions):
+Year Ended December 31,
+2021 2022 2023
+North America
+Net sales $ 279,833 $ 315,880 $ 352,828
+Operating expenses 272,562 318,727 337,951
+Operating income (loss) $ 7,271 $ (2,847) $ 14,877
+International
+Net sales $ 127,787 $ 118,007 $ 131,200
+Operating expenses 128,711 125,753 133,856
+Operating loss $ (924) $ (7,746) $ (2,656)
+AWS
+Net sales $ 62,202 $ 80,096 $ 90,757
+Operating expenses 43,670 57,255 66,126
+Operating income $ 18,532 $ 22,841 $ 24,631
+Consolidated
+Net sales $ 469,822 $ 513,983 $ 574,785
+Operating expenses 444,943 501,735 537,933
+Operating income 24,879 12,248 36,852
+Total non-operating income (expense) 13,272 (18,184) 705
+Benefit (provision) for income taxes (4,791) 3,217 (7,120)
+Equity-method investment activity, net of tax 4 (3) (12)
+Net income (loss) $ 33,364 $ (2,722) $ 30,425
+68

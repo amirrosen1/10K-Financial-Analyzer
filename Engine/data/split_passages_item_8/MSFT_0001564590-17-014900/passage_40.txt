@@ -1,0 +1,1 @@
+for allocating revenue to elements: (i) vendor-specific objective evidence of fair value (“VSOE”), (ii) third-party evidence, and (iii) best estimate of selling price (“ESP”). For software elements, we follow the industry specific software guidance which only allows for the use

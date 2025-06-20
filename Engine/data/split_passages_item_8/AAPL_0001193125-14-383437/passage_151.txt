@@ -1,0 +1,1 @@
+1 (132 ) 3,946 1,546 2,400 0 Level 2: U.S. Treasury securities 23,140 15 (9) 23,146 12 607 22,527 U.S. agency securities 7,373 3 (11) 7,365 652 157 6,556 Non-U.S. government securities 6,925 69 (69) 6,925 0 204 6,721 Certificates

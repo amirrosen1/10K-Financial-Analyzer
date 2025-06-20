@@ -1,0 +1,1 @@
+83,111 80,552 Retained earnings Balance, beginning of period 57,055 34,566 24,150 Net income 72,738 61,271 44,281 Common stock cash dividends (18,552) (16,871) (15,483) Common stock repurchased (26,960) (21,879) (18,382) Cumulative effect of accounting changes 0 (32) 0 Balance, end of

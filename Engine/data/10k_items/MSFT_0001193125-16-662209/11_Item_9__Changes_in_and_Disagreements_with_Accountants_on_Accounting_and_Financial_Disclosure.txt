@@ -1,0 +1,44 @@
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Table of Contents
+PART II
+Item 8
+NOTE 20 — EMPLOYEE STOCK AND SAVINGS PLANS
+We grant stock-based compensation to employees and directors. As of June 30, 2016 an aggregate of 214 million shares
+were authorized for future grant under our stock plans. Awards that expire or are canceled without delivery of shares
+generally become available for issuance under the plans. We issue new shares of Microsoft common stock to satisfy
+exercises and vesting of awards granted under all of our stock plans. We also have an ESPP for all eligible employees.
+Stock-based compensation expense and related income tax benefits were as follows:
+(In millions)
+Year Ended June 30, 2016 2015 2014
+Stock-based compensation expense $ 2,668 $ 2,574 $ 2,446
+Income tax benefits related to stock-based compensation 882 868 830
+Stock Plans
+Stock awards entitle the holder to receive shares of Microsoft common stock as the award vests. Stock awards generally
+vest over a four or five-year service period.
+Executive incentive plan
+Under the Executive Incentive Plan, the Compensation Committee approves stock awards to executive officers and
+certain senior executives. The stock awards vest ratably in August of each of the four years following the grant date.
+Activity for all stock plans
+The fair value of stock awards were estimated on the date of grant using the following assumptions:
+Year Ended June 30, 2016 2015 2014
+Dividends per share (quarterly amounts) $ 0.31 - $ 0.36 $ 0.28 - $ 0.31 $ 0.23 - $ 0.28
+Interest rates 1.1% -1.8% 1.2% - 1.9% 1.3% - 1.8%
+During fiscal year 2016, the following activity occurred under our stock plans:
+Weighted
+Average
+Grant-Date
+Shares Fair Value
+(In millions)
+Stock Awards
+Nonvested balance, beginning of year 216 $ 32.72
+Granted 83 $ 41.51
+Vested (85) $ 30.98
+Forfeited (20) $ 35.93
+Nonvested balance, end of year 194 $ 36.92
+As of June 30, 2016, there was approximately $4.8 billion of total unrecognized compensation costs related to stock
+awards. These costs are expected to be recognized over a weighted average period of 3 years. The weighted average
+grant-date fair value of stock award granted was $41.51, $42.36, and $31.50 for fiscal years 2016, 2015, and 2014,
+respectively. The fair value of stock awards vested was $3.9 billion, $4.2 billion, and $3.2 billion, for fiscal years 2016,
+2015, and 2014, respectively.
+90

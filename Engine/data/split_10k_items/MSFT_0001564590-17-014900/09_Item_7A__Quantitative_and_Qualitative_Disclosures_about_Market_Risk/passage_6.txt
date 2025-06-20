@@ -1,0 +1,1 @@
+113 155 57 Equity 54 157 121 165 54 Commodity 0 12 8 12 0 Total one-day VaR for the combined risk categories was $207 million and $225 million as of June 30, 2017 and 2016. The total VaR is 35% and 29% less as of June 30, 2017 and 2016, respectively, than the sum of the separate risk categories in the table above due to the diversification benefit of the combination of risks. 48

@@ -1,0 +1,1 @@
+separately, we determine the SSP using information that may include market conditions and other observable inputs. We typically have more than one SSP for individual products and services due to the stratification of those products and services by customers and

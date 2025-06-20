@@ -1,0 +1,64 @@
+Item 4. Mine Safety Disclosures
+
+PART I
+Item 1B, 2, 3, 4
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+We have received no written comments regarding our periodic or current reports from the staff of the Securities and Exchange
+Commission that were issued 180 days or more preceding the end of our fiscal year 2022 that remain unresolved.
+ITEM 2. PROPERTIES
+Our corporate headquarters are located in Redmond, Washington. We have approximately 15 million square feet of space located
+in King County, Washington that is used for engineering, sales, marketing, and operations, among other general and
+administrative purposes. These facilities include approximately 10 million square feet of owned space situated on approximately
+520 acres of land we own at our corporate headquarters, and approximately 5 million square feet of space we lease. In addition,
+we own and lease space domestically that includes office and datacenter space.
+We also own and lease facilities internationally for datacenters, research and development, and other operations. The largest
+owned properties include space in the following locations: China, India, Ireland, the Netherlands, and Singapore. The largest
+leased properties include space in the following locations: Australia, Canada, China, France, Germany, India, Ireland, Israel,
+Japan, the Netherlands, and the United Kingdom.
+In addition to the above locations, we have various product development facilities, both domestically and internationally, as
+described under Research and Development (Part I, Item 1 of this Form 10-K).
+The table below shows a summary of the square footage of our office, datacenter, and other facilities owned and leased
+domestically and internationally as of June 30, 2022:
+(Square feet in millions)
+Location Owned Leased Total
+U.S. 25 19 44
+International 8 21 29
+Total 33 40 73
+ITEM 3. LEGAL PROCEEDINGS
+Refer to Note 15 – Contingencies of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for information regarding
+legal proceedings in which we are involved.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+37
+PART II
+Item 5
+PART II
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND
+ISSUER PURCHASES OF EQUITY SECURITIES
+MARKET AND STOCKHOLDERS
+Our common stock is traded on the NASDAQ Stock Market under the symbol MSFT. On July 25, 2022, there were 86,465
+registered holders of record of our common stock.
+SHARE REPURCHASES AND DIVIDENDS
+Following are our monthly share repurchases for the fourth quarter of fiscal year 2022:
+Total Number of
+Shares Purchased as Approximate Dollar Value of
+Total Number Average Part of Publicly Shares That May Yet Be
+of Shares Price Paid Announced Plans Purchased Under the Plans
+Period Purchased Per Share or Programs or Programs
+(In millions)
+April 1, 2022 – April 30, 2022 9,124,963 $ 289.34 9,124,963 $ 45,869
+May 1, 2022 – May 31, 2022 9,809,727 265.95 9,809,727 43,260
+June 1, 2022 – June 30, 2022 9,832,841 259.42 9,832,841 40,709
+28,767,531 28,767,531
+All share repurchases were made using cash resources. Our share repurchases may occur through open market purchases or
+pursuant to a Rule 10b5-1 trading plan. The above table excludes shares repurchased to settle employee tax withholding related
+to the vesting of stock awards.
+Our Board of Directors declared the following dividends during the fourth quarter of fiscal year 2022:
+Dividend
+Declaration Date Record Date Payment Date Per Share Amount
+(In millions)
+June 14, 2022 August 18, 2022 September 8, 2022 $ 0.62 $ 4,627
+We returned $12.4 billion to shareholders in the form of share repurchases and dividends in the fourth quarter of fiscal year 2022.
+Refer to Note 16 – Stockholders’ Equity of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further
+discussion regarding share repurchases and dividends.
+38

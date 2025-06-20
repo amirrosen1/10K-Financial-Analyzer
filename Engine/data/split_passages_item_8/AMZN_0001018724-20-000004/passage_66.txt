@@ -1,0 +1,1 @@
+1, 2020 we changed our estimate of the useful life for our servers from three years to four years. The longer useful life is due to continuous improvements in our hardware, software, and data center designs. The effect of this

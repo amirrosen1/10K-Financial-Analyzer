@@ -1,0 +1,1 @@
+0 Level 2: U.S. Treasury securities 34,902 181 (1) 35,082 0 3,498 31,584 U.S. agency securities 5,864 14 0 5,878 841 767 4,270 Non-U.S. government securities 6,356 45 (167) 6,234 43 135 6,056 Certificates of deposit and time deposits 4,347

@@ -1,0 +1,1 @@
+Acoustic and Nonacoustic Sensors”; 8,019,091, entitled “Voice Activity 58Table of Contents Detector (VAD)-Based Multiple-Microphone Acoustic Noise Suppression”; 8,280,072, entitled “Microphone Array with Rear Venting”; 8,321,213 and 8,326,611, both entitled “Acoustic Voice Activity Detection (AVAD) for Electronic Systems”; 8,467,543, entitled “Microphone

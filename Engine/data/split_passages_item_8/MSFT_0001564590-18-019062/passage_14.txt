@@ -1,0 +1,1 @@
+from operations: Asset impairments 0 0 630 Depreciation, amortization, and other 10,261 8,778 6,622 Stock-based compensation expense 3,940 3,266 2,668 Net recognized gains on investments and derivatives (2,212) (2,073) (223) Deferred income taxes (5,143) (829) 2,479 Changes in operating assets

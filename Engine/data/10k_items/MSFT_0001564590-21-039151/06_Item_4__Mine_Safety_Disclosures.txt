@@ -1,0 +1,75 @@
+Item 4. Mine Safety Disclosures
+
+PART I
+Item 1B, 2, 3, 4
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+We have received no written comments regarding our periodic or current reports from the staff of the Securities and Exchange
+Commission that were issued 180 days or more preceding the end of our fiscal year 2021 that remain unresolved.
+ITEM 2. PROPERTIES
+Our corporate headquarters are located in Redmond, Washington. We have approximately 15 million square feet of space located
+in King County, Washington that is used for engineering, sales, marketing, and operations, among other general and
+administrative purposes. These facilities include approximately 10 million square feet of owned space situated on approximately
+520 acres of land we own at our corporate headquarters, and approximately 5 million square feet of space we lease. In addition,
+we own and lease space domestically that includes office and datacenter space.
+We also own and lease facilities internationally for datacenters, research and development, and other operations. The largest
+owned properties include space in the following locations: China, India, Ireland, the Netherlands, Singapore, and South Korea.
+The largest leased properties include space in the following locations: Australia, Canada, China, France, Germany, India, Israel,
+Japan, Netherlands, and the United Kingdom.
+In addition to the above locations, we have various product development facilities, both domestically and internationally, as
+described under Research and Development (Part I, Item 1 of this Form 10-K).
+The table below shows a summary of the square footage of our office, datacenter, and other facilities owned and leased
+domestically and internationally as of June 30, 2021:
+(Square feet in millions)
+Location Owned Leased Total
+U.S. 22 17 39
+International 9 19 28
+Total 31 36 67
+ITEM 3. LEGAL PROCEEDINGS
+While not material to the Company, the Company was required to make annual reports of the general activities of the Company’s
+Antitrust Compliance Office as required by the Final Order and Judgment in Barovic v. Ballmer et al, United States District Court
+for the Western District of Washington (“Final Order”). For more information see http://aka.ms/MSLegalNotice2015. The Final
+Order expired in April of 2021. During fiscal year 2021, the Antitrust Compliance Office (a) monitored the Company’s compliance
+with the European Commission Decision of March 24, 2004, (“2004 Decision”) and with the Company’s Public Undertaking to the
+European Commission dated December 16, 2009 (“2009 Undertaking”); (b) monitored, in the manner required by the Final Order,
+employee, customer, competitor, regulator, or other third-party complaints regarding compliance with the 2004 Decision, the 2009
+Undertaking, or other EU or U.S. laws or regulations governing tying, bundling, and exclusive dealing contracts; and, (c)
+monitored, in the manner required by the Final Order, the training of the Company’s employees regarding the Company’s antitrust
+compliance polices. In addition, prior to expiration of the Final Order, the Antitrust Compliance Officer reported to the Regulatory
+and Public Policy Committee of the Board at each of its regularly scheduled meetings.
+Refer to Note 15 – Contingencies of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for information regarding
+legal proceedings in which we are involved.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+36
+PART II
+Item 5
+PART II
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND
+ISSUER PURCHASES OF EQUITY SECURITIES
+MARKET AND STOCKHOLDERS
+Our common stock is traded on the NASDAQ Stock Market under the symbol MSFT. On July 26, 2021, there were 89,291
+registered holders of record of our common stock.
+SHARE REPURCHASES AND DIVIDENDS
+Following are our monthly share repurchases for the fourth quarter of fiscal year 2021:
+Total Number of
+Shares Purchased as Approximate Dollar Value of
+Total Number Average Part of Publicly Shares That May Yet be
+of Shares Price Paid Announced Plans Purchased Under the Plans
+Period Purchased Per Share or Programs or Programs
+(In millions)
+April 1, 2021 – April 30, 2021 7,493,732 $ 255.23 7,493,732 $ 13,030
+May 1, 2021 – May 31, 2021 8,823,524 247.36 8,823,524 10,847
+June 1, 2021 – June 30, 2021 8,155,857 258.07 8,155,857 8,742
+24,473,113 24,473,113
+All share repurchases were made using cash resources. Our share repurchases may occur through open market purchases or
+pursuant to a Rule 10b5-1 trading plan. The above table excludes shares repurchased to settle employee tax withholding related
+to the vesting of stock awards.
+Our Board of Directors declared the following dividends during the fourth quarter of fiscal year 2021:
+Dividend
+Declaration Date Record Date Payment Date Per Share Amount
+(In millions)
+June 16, 2021 August 19, 2021 September 9, 2021 $ 0.56 $ 4,211
+We returned $10.4 billion to shareholders in the form of share repurchases and dividends in the fourth quarter of fiscal year 2021.
+Refer to Note 16 – Stockholders’ Equity of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further
+discussion regarding share repurchases and dividends.
+37

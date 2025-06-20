@@ -1,0 +1,357 @@
+Item 1. Business
+
+Table of Contents
+This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities
+Litigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part II,
+Item 7 of this Form 10-K under the heading “Management’s Discussion and Analysis of Financial Condition and Results of
+Operations.” Forward-looking statements provide current expectations of future events based on certain assumptions and include
+any statement that does not directly relate to any historical or current fact. Forward-looking statements can also be identified by
+words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “will,” “would,” “could,” “can,” “may,” and similar
+terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ
+significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are
+not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors,” which are incorporated herein
+by reference. All information presented herein is based on the Company’s fiscal calendar. Unless otherwise stated, references to
+particular years, quarters, months or periods refer to the Company’s fiscal years ended in September and the associated quarters,
+months and periods of those fiscal years. Each of the terms the “Company” and “Apple” as used herein refers collectively to Apple
+Inc. and its wholly-owned subsidiaries, unless otherwise stated. The Company assumes no obligation to revise or update any
+forward-looking statements for any reason, except as required by law.
+PART I
+Item 1. Business
+Company Background
+The Company designs, manufactures, and markets mobile communication and media devices, personal computers, and portable
+digital music players, and sells a variety of related software, services, accessories, networking solutions, and third-party digital
+content and applications. The Company’s products and services include iPhone®, iPad®, Mac®, iPod®, Apple TV®, a portfolio of
+consumer and professional software applications, the iOS and OS X® operating systems, iCloud®, and a variety of accessory,
+service and support offerings. In September 2014, the Company announced Apple Watch™, which is expected to be available in
+early calendar year 2015, and Apple Pay™, which became available in the U.S. in October 2014. The Company also sells and
+delivers digital content and applications through the iTunes Store®, App Store™, iBooks Store™ and Mac App Store. The Company
+sells its products worldwide through its retail stores, online stores and direct sales force, as well as through third-party cellular
+network carriers, wholesalers, retailers and value-added resellers. In addition, the Company sells a variety of third-party iPhone,
+iPad, Mac and iPod compatible products, including application software, and various accessories, through its online and retail stores.
+The Company sells to consumers, small and mid-sized businesses (“SMB”) and education, enterprise and government customers.
+The Company’s fiscal year is the 52 or 53-week period that ends on the last Saturday of September. The Company is a California
+corporation established in 1977.
+Business Strategy
+The Company is committed to bringing the best user experience to its customers through its innovative hardware, software and
+services. The Company’s business strategy leverages its unique ability to design and develop its own operating systems, hardware,
+application software and services to provide its customers products and solutions with innovative design, superior ease-of-use and
+seamless integration. As part of its strategy, the Company continues to expand its platform for the discovery and delivery of third-
+party digital content and applications through the iTunes Store. As part of the iTunes Store, the Company’s App Store and iBooks
+Store allow customers to discover and download applications and books through either a Mac or Windows-based computer or
+through iPhone, iPad and iPod touch® devices (“iOS devices”). The Company’s Mac App Store allows customers to easily discover,
+download and install Mac applications. The Company also supports a community for the development of third-party software and
+hardware products and digital content that complement the Company’s offerings. The Company believes a high-quality buying
+experience with knowledgeable salespersons who can convey the value of the Company’s products and services greatly enhances
+its ability to attract and retain customers. Therefore, the Company’s strategy also includes building and expanding its own retail and
+online stores and its third-party distribution network to effectively reach more customers and provide them with a high-quality sales
+and post-sales support experience. The Company believes continual investment in research and development (“R&D”), marketing
+and advertising is critical to the development and sale of innovative products and technologies.
+Apple Inc. | 2014 Form 10-K | 1
+Table of Contents
+Business Organization
+The Company manages its business primarily on a geographic basis. Accordingly, the Company determined its reportable operating
+segments, which are generally based on the nature and location of its customers, to be the Americas, Europe, Greater China, Japan,
+Rest of Asia Pacific and Retail. The Americas segment includes both North and South America. The Europe segment includes
+European countries, as well as India, the Middle East and Africa. The Greater China segment includes China, Hong Kong and
+Taiwan. The Rest of Asia Pacific segment includes Australia and Asian countries, other than those countries included in the
+Company’s other operating segments. The results of the Company’s geographic segments do not include the results of the Retail
+segment. Each operating segment provides similar hardware and software products and similar services. Further information
+regarding the Company’s operating segments may be found in Part II, Item 7 of this Form 10-K under the subheading “Segment
+Operating Performance,” and in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 11,
+“Segment Information and Geographic Data.”
+Products
+iPhone
+iPhone is the Company’s line of smartphones that combines a phone, music player and internet device in one product, and is based
+on Apple’s iOS Multi-Touch™ operating system. iPhone has an integrated photo and video camera and photo library app, and on
+qualifying devices, also includes Siri®, a voice activated intelligent assistant. iPhone works with the iTunes Store, the App Store and
+iBooks Store for purchasing, organizing and playing music, movies, TV shows, podcasts, books and apps. In addition to apps
+delivered with iOS, free downloads of iLife® and iWork® apps for iOS are available with all new iPhones. iPhone is compatible with
+both Mac and Windows personal computers and Apple’s iCloud services which provide synchronization of mail, contacts, calendars,
+apps, music, photos, documents and more across users’ devices. In September 2014, the Company introduced iPhone 6 and
+iPhone 6 Plus that feature larger 4.7-inch and 5.5-inch Retina® HD displays and support for Apple Pay.
+iPad
+iPad is the Company’s line of multi-purpose tablets based on Apple’s iOS Multi-Touch operating system, which includes iPad Air™
+and iPad mini™. iPad has an integrated photo and video camera and photo library app, and on qualifying devices, also includes Siri.
+iPad works with the iTunes Store, the iBooks Store and the App Store for purchasing, organizing and playing music, movies, TV
+shows, podcasts, books and apps. In addition to apps delivered with iOS for qualifying devices, iLife and iWork apps for iOS are
+available as free downloads with all new iPads. iPad is compatible with both Mac and Windows personal computers and Apple’s
+iCloud services. In October 2014, the Company introduced iPad Air 2 and iPad mini 3 that feature a Retina display, Touch ID™ and
+support for Apple Pay.
+Mac
+Mac is the Company’s line of desktop and portable personal computers. Macs feature Intel microprocessors, the OS X operating
+system and include Mail, Safari® web browser, Messages, Calendar, Reminders, Contacts and the iLife apps. The Company’s iWork
+apps are also available as free downloads with all new Macs. The Company’s desktop computers include iMac®, Mac Pro® and Mac
+mini. The Company’s portable computers include MacBook Pro®, MacBook Pro with Retina display and MacBook Air®. In October
+2014, the Company introduced the 27-inch iMac with Retina 5K display with improved performance, power efficiency and visual
+quality; and updated the Mac mini.
+iPod
+The Company’s iPod line of portable digital music and media players includes iPod touch, iPod nano® and iPod shuffle®. All iPods
+work with iTunes® to purchase and synchronize content. iPod touch, based on the Company’s iOS Multi-Touch operating system, is
+a flash-memory-based iPod with an integrated photo and video camera and photo library app, and also includes Siri. iPod touch
+works with the iTunes Store, the App Store and the iBooks Store for purchasing and playing music, movies, TV shows, podcasts,
+books and apps. In addition to apps delivered with iOS, iLife and iWork apps for iOS are available as free downloads for all new iPod
+touch products. iPod touch is compatible with both Mac and Windows personal computers and Apple’s iCloud services.
+Apple Inc. | 2014 Form 10-K | 2
+Table of Contents
+iTunes and the iTunes Store
+Apple’s iTunes app, available for iOS devices, Mac and Windows personal computers and Apple TV, keeps users’ music, movies and
+TV shows organized in one place. iTunes is integrated with the iTunes Store, the App Store, the iBooks Store, iTunes U® and iTunes
+Radio™. The iTunes Store allows customers to purchase and download music and TV shows, rent or purchase movies and
+download free Podcasts. The App Store allows customers to discover and download apps and purchase in-app content. The iBooks
+Store features e-books from major and independent publishers. iTunes U allows users to download free lectures, videos and more
+from top universities, museums and other institutions. iTunes Radio provides a free Internet streaming service that allows users to
+personalize radio stations featuring music from the iTunes Store. In July 2014, the Company acquired Beats Music, LLC, which
+offers a subscription streaming music service that offers a curated listening experience and complements the Company’s other
+music services and offerings.
+Mac App Store
+The Mac App Store allows customers to discover, download and install Mac applications. The Mac App Store offers applications in
+education, games, graphics and design, lifestyle, productivity, utilities and other categories. The Company’s OS X operating system
+software and its iLife, iWork and other application software titles are also available on the Mac App Store.
+iCloud
+iCloud is the Company’s cloud service which stores music, photos, applications, contacts, calendars, mail, documents and more,
+keeping them up-to-date and available to multiple iOS devices, Mac and Windows personal computers and Apple TV. iCloud
+services include iTunes in the Cloud, iCloud DriveSM, iCloud Photo Sharing, Family Sharing, Find My iPhone, iPad or Mac and
+iCloud Backup for iOS devices. Users can sign up for free access to iCloud using a device running qualifying versions of iOS or OS
+X.
+Apple Pay
+In October 2014, the Company released Apple Pay in the U.S., a new service aimed at making mobile payments easy, secure and
+private. Apple Pay works with iPhone 6, iPhone 6 Plus, iPad Air 2 and iPad mini 3. Apple Pay will also work with the newly
+announced Apple Watch upon its expected availability in early calendar year 2015.
+Operating System Software
+iOS
+iOS is the Company’s Multi-Touch operating system that serves as the foundation for iOS devices. Apps delivered with iOS for
+qualifying devices include Safari web browser, FaceTime® video calling, Maps, Mail, Contacts, Calendar, Clock, Weather, Calculator,
+Notes, Reminders, Stocks, Compass and Messages. Devices running iOS are compatible with both Mac and Windows personal
+computers and Apple’s iCloud services. In September 2014, the Company released iOS 8, which provides new features for
+Messages and Photos, predictive typing for Apple’s QuickType™ keyboard and a new Health app. iOS 8 also introduced Family
+Sharing, which enables easier sharing of purchases, photos and calendars within the same household.
+OS X
+OS X, the Company’s Mac operating system, is built on an open-source UNIX-based foundation and provides an intuitive and
+integrated computer experience. OS X Yosemite, released in October 2014, is the eleventh major release of OS X. Support for
+iCloud is built into OS X so users can access content and information from their Macs, their iOS devices and other supported
+devices and access downloaded content and apps from the iTunes Store. Apps delivered with OS X include Mail, Safari web
+browser, Messages, Calendar, Reminders, Contacts, Maps, iBooks® and the iLife apps. OS X Yosemite incorporates additional
+continuity features including Handoff, which allows users to start an activity on one Mac or iOS device and pass it to another Mac or
+iOS device.
+Apple Inc. | 2014 Form 10-K | 3
+Table of Contents
+Application Software
+iLife
+iLife for Mac is the Company’s consumer-oriented digital lifestyle software application suite included with all Mac computers. iLife
+features iPhoto®, a digital photo application for storing, viewing, editing and sharing photos; iMovie®, a digital video editing
+application; and GarageBand®, a music creation application that allows users to play, record and create music. The Company also
+has Multi-Touch versions of these iLife applications designed specifically for use on iOS devices.
+iWork
+iWork for Mac is the Company’s integrated productivity suite designed to help users create, present and publish documents,
+presentations and spreadsheets. iWork includes Pages® for word processing and page layout, Keynote® for presentations and
+Numbers® for spreadsheets. The Company also has iOS Multi-Touch versions of each iWork application designed specifically for
+use on iOS devices.
+Other Application Software
+The Company also sells various other application software, including its professional line of applications: Final Cut Pro®, Logic® Pro
+X and its FileMaker® Pro database software.
+Accessories
+The Company sells a variety of Apple-branded and third-party Mac-compatible and iOS-compatible accessories, including Apple TV,
+headphones, cases, displays, storage devices and various other connectivity and computing products and supplies. In July 2014, the
+Company acquired Beats Electronics, LLC, which makes Beats® headphones, speakers and audio software.
+Apple TV
+Apple TV connects to consumers’ high definition TVs and enables them to access iTunes content directly for streaming HD video,
+playing music and viewing photos. Content from iTunes Radio, Beats Music™ and other media services, including Netflix, YouTube,
+Flickr, Hulu Plus, Vevo, MLB, NBA and NHL is available on Apple TV. Apple TV allows streaming iTunes content from Macs and
+Windows personal computers through Home Share and through AirPlay® from compatible Mac and iOS devices. Compatible Mac
+and iOS devices can also mirror their device screens as well as stream and play games on Apple TV.
+Apple Watch
+In September 2014, the Company announced Apple Watch, a personal electronic device that combines new precision watch
+technology with an iOS-based user interface created specifically for a smaller device. Apple Watch features Digital Crown, a unique
+navigation tool that allows users to seamlessly scroll, zoom and navigate. Apple Watch enables customers to communicate in new
+ways from their wrist and features Force Touch, a technology that senses the difference between a tap and a press and allows users
+to access controls within apps. Apple Watch is expected to be available in early calendar year 2015 and will be compatible with
+iPhone 5 and newer iPhone models running the latest version of iOS 8.
+iOS and Mac Developer Programs
+The Company’s iOS and Mac Developer Programs support app developers with the development, testing and distribution of iOS and
+Mac apps through the App Store and the Mac App Store. Development tools included with the Company’s Developer Programs
+include Xcode®, the Company’s integrated development environment for creating apps for iOS devices and Mac. Xcode includes
+project management tools; analysis tools to collect, display and compare app performance data; simulation tools to locally run, test
+and debug apps; tools to simplify the design and development of user interfaces; Swift™, the Company’s new programming
+language for both iOS and OS X introduced in June 2014; and the latest software development kits for iOS and OS X. The
+Company’s Developer Programs also provide access to multiple development resources including the Company’s Developer
+Forums, extensive technical documentation and sample code. The Company’s Developer Programs also provide developers with
+access tools and information for submitting their apps to the App Store and the Mac App Store.
+Apple Inc. | 2014 Form 10-K | 4
+Table of Contents
+Product Support and Services
+AppleCare® offers a range of support options for the Company’s customers. These include assistance that is built into software
+products, printed and electronic product manuals, online support including comprehensive product information as well as technical
+assistance, the AppleCare Protection Plan (“APP”) and the AppleCare+ Protection Plan (“AC+”). APP is a fee-based service that
+typically includes two to three years of phone support, hardware repairs and dedicated web-based support resources. AC+ is a fee-
+based service available in certain countries for iPhone and iPad. AC+ offers additional coverage under some circumstances for
+instances of accidental damage in addition to the services offered by APP.
+Markets and Distribution
+The Company’s customers are primarily in the consumer, SMB, education, enterprise and government markets. The Company sells
+its products and resells third-party products in most of its major markets directly to consumers and SMBs through its retail and online
+stores and its direct sales force. The Company also employs a variety of indirect distribution channels, such as third-party cellular
+network carriers, wholesalers, retailers and value-added resellers. During 2014, the Company’s net sales through its direct and
+indirect distribution channels accounted for 28% and 72%, respectively, of total net sales.
+The Company believes that sales of its innovative and differentiated products are enhanced by knowledgeable salespersons who
+can convey the value of the hardware and software integration and demonstrate the unique solutions that are available on its
+products. The Company further believes providing direct contact with its targeted customers is an effective way to demonstrate the
+advantages of its products over those of its competitors and providing a high-quality sales and after-sales support experience is
+critical to attracting new and retaining existing customers.
+To ensure a high-quality buying experience for its products in which service and education are emphasized, the Company continues
+to build and improve its distribution capabilities by expanding the number of its own retail stores worldwide. The Company’s retail
+stores are typically located at high-traffic locations in quality shopping malls and urban shopping districts. By operating its own stores
+and locating them in desirable high-traffic locations the Company is better positioned to ensure a high quality customer buying
+experience and attract new customers. The stores are designed to simplify and enhance the presentation and marketing of the
+Company’s products and related solutions. The retail stores employ experienced and knowledgeable personnel who provide product
+advice, service and training and offer a wide selection of third-party hardware, software and other accessories that complement the
+Company’s products.
+The Company has also invested in programs to enhance reseller sales by placing high-quality Apple fixtures, merchandising
+materials and other resources within selected third-party reseller locations. Through the Apple Premium Reseller Program, certain
+third-party resellers focus on the Apple platform by providing a high level of product expertise, integration and support services.
+The Company is committed to delivering solutions to help educators teach and students learn. The Company believes effective
+integration of technology into classroom instruction can result in higher levels of student achievement and has designed a range of
+products, services and programs to address the needs of education customers. The Company also supports mobile learning and
+real-time distribution of, and access to, education related materials through iTunes U, a platform that allows students and teachers to
+share and distribute educational media online. The Company sells its products to the education market through its direct sales force,
+select third-party resellers and its online and retail stores.
+The Company also sells its hardware and software products to enterprise and government customers in each of its geographic
+segments. The Company’s products are deployed in these markets because of their performance, productivity, ease of use and
+seamless integration into information technology environments. The Company’s products are compatible with thousands of third-
+party business applications and services, and its tools enable the development and secure deployment of custom applications as
+well as remote device administration. In July 2014, the Company announced a global partnership with IBM to offer MobileFirst for
+iOS, a new class of industry-specific mobile solutions; AppleCare for Enterprise, a new service and support product tailored to the
+needs of enterprise customers; and Device Supply, Activate and Manage, a suite of value-added reselling services for iPhone, iPad
+and Mac.
+No single customer accounted for more than 10% of net sales in 2014, 2013 or 2012.
+Apple Inc. | 2014 Form 10-K | 5
+Table of Contents
+Competition
+The markets for the Company’s products and services are highly competitive and the Company is confronted by aggressive
+competition in all areas of its business. These markets are characterized by frequent product introductions and rapid technological
+advances that have substantially increased the capabilities and use of mobile communication and media devices, personal
+computers and other digital electronic devices. The Company’s competitors who sell mobile devices and personal computers based
+on other operating systems have aggressively cut prices and lowered their product margins to gain or maintain market share. The
+Company’s financial condition and operating results can be adversely affected by these and other industry-wide downward
+pressures on gross margins. Principal competitive factors important to the Company include price, product features, relative
+price/performance, product quality and reliability, design innovation, a strong third-party software and accessories ecosystem,
+marketing and distribution capability, service and support and corporate reputation.
+The Company is focused on expanding its market opportunities related to personal computers and mobile communication and media
+devices. These markets are highly competitive and include many large, well-funded and experienced participants. The Company
+expects competition in these markets to intensify significantly as competitors attempt to imitate some of the features of the
+Company’s products and applications within their own products or, alternatively, collaborate with each other to offer solutions that are
+more competitive than those they currently offer. These markets are characterized by aggressive pricing practices, frequent product
+introductions, evolving design approaches and technologies, rapid adoption of technological and product advancements by
+competitors and price sensitivity on the part of consumers and businesses.
+The Company’s digital content services have faced significant competition from other companies promoting their own digital music
+and content products and services, including those offering free peer-to-peer music and video services.
+The Company’s future financial condition and operating results depend on the Company’s ability to continue to develop and offer
+new innovative products and services in each of the markets in which it competes. The Company believes it offers superior
+innovation and integration of the entire solution including the hardware (iPhone, iPad, Mac and iPod), software (iOS, OS X and
+iTunes), online services and distribution of digital content and applications (iTunes Store, App Store, iBooks Store and Mac App
+Store). Some of the Company’s current and potential competitors have substantial resources and may be able to provide such
+products and services at little or no profit or even at a loss to compete with the Company’s offerings.
+Supply of Components
+Although most components essential to the Company’s business are generally available from multiple sources, a number of
+components are currently obtained from single or limited sources. In addition, the Company competes for various components with
+other participants in the markets for mobile communication and media devices and personal computers. Therefore, many
+components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide
+shortage and significant pricing fluctuations that could materially adversely affect the Company’s financial condition and operating
+results.
+The Company uses some custom components that are not commonly used by its competitors, and new products introduced by the
+Company often utilize custom components available from only one source. When a component or product uses new technologies,
+initial capacity constraints may exist until the suppliers’ yields have matured or manufacturing capacity has increased. If the
+Company’s supply of components for a new or existing product were delayed or constrained, or if an outsourcing partner delayed
+shipments of completed products to the Company, the Company’s financial condition and operating results could be materially
+adversely affected. The Company’s business and financial performance could also be materially adversely affected depending on
+the time required to obtain sufficient quantities from the original source, or to identify and obtain sufficient quantities from an
+alternative source. Continued availability of these components at acceptable prices, or at all, may be affected if those suppliers
+concentrated on the production of common components instead of components customized to meet the Company’s requirements.
+The Company has entered into agreements for the supply of many components; however, there can be no guarantee that the
+Company will be able to extend or renew these agreements on similar terms, or at all. Therefore, the Company remains subject to
+significant risks of supply shortages and price increases that could materially adversely affect its financial condition and operating
+results.
+Apple Inc. | 2014 Form 10-K | 6
+Table of Contents
+While the Company manufactures some Macs in the United States, substantially all of the Company’s hardware products are
+currently manufactured by outsourcing partners that are located primarily in Asia. A significant concentration of this manufacturing is
+currently performed by a small number of outsourcing partners, often in single locations. Certain of these outsourcing partners are
+the sole-sourced suppliers of components and manufacturers for many of the Company’s products. Although the Company works
+closely with its outsourcing partners on manufacturing schedules, the Company’s operating results could be adversely affected if its
+outsourcing partners were unable to meet their production commitments. The Company’s purchase commitments typically cover its
+requirements for periods up to 150 days.
+Research and Development
+Because the industries in which the Company competes are characterized by rapid technological advances, the Company’s ability to
+compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and
+technologies to the marketplace. The Company continues to develop new technologies to enhance existing products and to expand
+the range of its product offerings through R&D, licensing of intellectual property and acquisition of third-party businesses and
+technology. Total R&D expense was $6.0 billion, $4.5 billion and $3.4 billion in 2014, 2013 and 2012, respectively.
+Patents, Trademarks, Copyrights and Licenses
+The Company currently holds rights to patents and copyrights relating to certain aspects of its hardware devices, accessories,
+software and services. The Company has registered or has applied for trademarks and service marks in the U.S. and a number of
+foreign countries. Although the Company believes the ownership of such patents, copyrights, trademarks and service marks is an
+important factor in its business and that its success does depend in part on the ownership thereof, the Company relies primarily on
+the innovative skills, technical competence and marketing abilities of its personnel.
+The Company regularly files patent applications to protect innovations arising from its research, development and design, and is
+currently pursuing thousands of patent applications around the world. Over time, the Company has accumulated a large portfolio of
+issued patents around the world. The Company holds copyrights relating to certain aspects of its products and services. No single
+patent or copyright is solely responsible for protecting the Company’s products. The Company believes the duration of its patents is
+adequate relative to the expected lives of its products.
+Many of the Company’s products are designed to include intellectual property obtained from third parties. It may be necessary in the
+future to seek or renew licenses relating to various aspects of its products, processes and services. While the Company has
+generally been able to obtain such licenses on commercially reasonable terms in the past, there is no guarantee that such licenses
+could be obtained in the future on reasonable terms or at all. Because of technological changes in the industries in which the
+Company competes, current extensive patent coverage and the rapid rate of issuance of new patents, it is possible that certain
+components of the Company’s products, processes and services may unknowingly infringe existing patents or intellectual property
+rights of others. From time to time, the Company has been notified that it may be infringing certain patents or other intellectual
+property rights of third parties.
+Foreign and Domestic Operations and Geographic Data
+During 2014, the Company’s domestic and international net sales accounted for 38% and 62%, respectively, of total net
+sales. Information regarding financial data by geographic segment is set forth in Part II, Item 7 of this Form 10-K under the
+subheading “Segment Operating Performance,” and in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial
+Statements in Note 11, “Segment Information and Geographic Data.”
+While substantially all of the Company’s hardware products are currently manufactured by outsourcing partners that are located
+primarily in Asia, the Company also performs final assembly of certain products at its manufacturing facility in Ireland. The supply
+and manufacture of a number of components is performed by sole-sourced outsourcing partners in the U.S., Asia and Europe.
+Margins on sales of the Company’s products in foreign countries and on sales of products that include components obtained from
+foreign suppliers, can be adversely affected by foreign currency exchange rate fluctuations and by international trade regulations,
+including tariffs and antidumping penalties. Information regarding concentration in the available sources of supply of materials and
+products is set forth in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 10, “Commitments
+and Contingencies.”
+Apple Inc. | 2014 Form 10-K | 7
+Table of Contents
+Business Seasonality and Product Introductions
+The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part
+to seasonal holiday demand. Additionally, new product introductions can significantly impact net sales, product costs and operating
+expenses. Product introductions can also impact the Company’s net sales to its indirect distribution channels as these channels are
+filled with new product inventory following a product introduction, and often, channel inventory of a particular product declines as the
+next related major product launch approaches. Net sales can also be affected when consumers and distributors anticipate a product
+introduction. However, neither historical seasonal patterns nor historical patterns of product introductions should be considered
+reliable indicators of the Company’s future pattern of product introductions, future net sales or financial performance.
+Warranty
+The Company offers a limited parts and labor warranty on most of its hardware products. The basic warranty period is typically one
+year from the date of purchase by the original end-user. The Company also offers a 90-day basic warranty for its service parts used
+to repair the Company’s hardware products. In certain jurisdictions, local law requires that manufacturers guarantee their products
+for a period prescribed by statute, typically at least two years. In addition, where available, consumers may purchase APP or AC+,
+which extends service coverage on many of the Company’s hardware products.
+Backlog
+In the Company’s experience, the actual amount of product backlog at any particular time is not a meaningful indication of its future
+business prospects. In particular, backlog often increases immediately following new product introductions as customers anticipate
+shortages. Backlog is often reduced once customers believe they can obtain sufficient supply. Because of the foregoing, backlog
+should not be considered a reliable indicator of the Company’s ability to achieve any particular level of revenue or financial
+performance.
+Employees
+As of September 27, 2014, the Company had approximately 92,600 full-time equivalent employees and an additional 4,400 full-time
+equivalent temporary employees and contractors. Approximately 46,200 of the total full-time equivalent employees worked in the
+Company’s Retail segment.
+Available Information
+The Company’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to
+reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are
+filed with the Securities and Exchange Commission (the “SEC”). The Company is subject to the informational requirements of the
+Exchange Act and files or furnishes reports, proxy statements and other information with the SEC. Such reports and other
+information filed by the Company with the SEC are available free of charge on the Company’s website at investor.apple.com/sec.cfm
+when such reports are available on the SEC’s website. The public may read and copy any materials filed by the Company with the
+SEC at the SEC’s Public Reference Room at 100 F Street, NE, Room 1580, Washington, DC 20549. The public may obtain
+information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet
+site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the
+SEC at www.sec.gov. The contents of these websites are not incorporated into this filing. Further, the Company’s references to the
+URLs for these websites are intended to be inactive textual references only.
+Apple Inc. | 2014 Form 10-K | 8

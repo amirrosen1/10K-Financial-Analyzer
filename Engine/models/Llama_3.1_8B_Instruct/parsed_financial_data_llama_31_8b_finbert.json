@@ -1,0 +1,47 @@
+[
+    {
+        "company": "Amazon",
+        "year": 2021,
+        "total_net_sales": 469822
+    },
+    {
+        "company": "Apple",
+        "year": 2014,
+        "total_net_sales": 182795
+    },
+    {
+        "company": "Apple",
+        "year": 2017,
+        "total_net_sales": 229234
+    },
+    {
+        "company": "Apple",
+        "year": 2019,
+        "total_net_sales": 265615
+    },
+    {
+        "company": "Microsoft",
+        "year": 2014,
+        "total_net_sales": 96248
+    },
+    {
+        "company": "Microsoft",
+        "year": 2015,
+        "total_net_sales": 93580
+    },
+    {
+        "company": "Microsoft",
+        "year": 2016,
+        "total_net_sales": 85320
+    },
+    {
+        "company": "Microsoft",
+        "year": 2019,
+        "total_net_sales": 125843
+    },
+    {
+        "company": "Microsoft",
+        "year": 2020,
+        "total_net_sales": 143015
+    }
+]

@@ -1,0 +1,1 @@
+1,108 3,897 1,593 Commercial paper 7,433 — — 7,433 2,468 4,965 — Corporate securities 131,166 1,409 (206) 132,369 242 19,599 112,528 Municipal securities 956 5 — 961 — 167 794 Mortgage- and asset-backed securities 19,134 178 (28) 19,284 — 31

@@ -1,0 +1,1 @@
+measure the fair value of PSUs using a Monte Carlo valuation model. Compensation cost for RSUs is recognized using the straight-line method and for PSUs is recognized using the accelerated method. Compensation expense for the employee stock purchase plan (“ESPP”)

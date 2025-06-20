@@ -1,0 +1,1 @@
+a complaint against Amazon Web Services, Inc. in the United States District Court for the Northern District of Illinois. The complaint alleges, among other things, that Amazon S3 and DynamoDB infringe U.S. Patent Nos. 7,814,170 and 7,103,640, both entitled “Network

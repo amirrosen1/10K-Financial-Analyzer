@@ -1,0 +1,1 @@
+(loss): Net unrealized gains (losses) on derivatives (net of tax effects of $(5), $(12), and $20) (218) (238) 559 Net unrealized losses on investments (net of tax effects of $(613), $(121), and $(197)) (1,116) (228) (362) Translation adjustments and other

@@ -1,0 +1,1 @@
+reduce the number of shares available for grant under the plan by a factor of two times the number of RSUs granted. RSUs canceled and shares withheld to satisfy tax withholding obligations increase the number of shares available for grant

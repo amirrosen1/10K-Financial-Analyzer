@@ -1,0 +1,1 @@
+Euro-denominated debt are hedged using foreign exchange forward contracts that are designated as cash flow hedging instruments. In the past, option and forward contracts were used to hedge a portion of forecasted international revenue and were designated as cash flow

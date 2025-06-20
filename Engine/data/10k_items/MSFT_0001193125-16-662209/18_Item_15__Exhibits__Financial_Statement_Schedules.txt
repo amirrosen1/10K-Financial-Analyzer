@@ -1,0 +1,477 @@
+Item 15. Exhibits, Financial Statement Schedules
+
+Table of Contents
+PART II
+Item 8
+(In millions)
+Year Ended June 30, 2016 2015 2014
+Operating income (loss)
+Productivity and Business Processes $ 12,461 $ 13,359 $ 14,173
+Intelligent Cloud 9,358 9,871 8,446
+More Personal Computing 6,142 4,667 5,605
+Corporate and Other (7,779) (9,736) (465)
+Total operating income $ 20,182 $ 18,161 $ 27,759
+Corporate and Other operating income (loss) includes adjustments to conform our internal accounting policies to U.S.
+GAAP, and impairment, integration, and restructuring expenses. Significant internal accounting policies that differ from
+U.S. GAAP relate to revenue recognition.
+Corporate and Other operating income (loss) activity was as follows during the periods presented:
+(In millions)
+Year Ended June 30, 2016 2015 2014
+Impairment, integration and restructuring expenses $ (1,110) $ (10,011) $ (127)
+Revenue reconciling amounts and other (a) (6,669) 275 (338)
+Total Corporate and Other $ (7,779) $ (9,736) $ (465)
+(a) Revenue reconciling amounts and other for fiscal year 2016 primarily consisted of a net $6.6 billion of revenue
+deferrals related to sales of Windows 10. Revenue reconciling amounts for fiscal year 2015 included a net $303
+million of previously deferred net revenue related to sales of bundled products and services (“Bundled Offerings”).
+Revenue reconciling amounts for fiscal year 2014 included a net $349 million of revenue deferrals related to
+Bundled Offerings.
+No sales to an individual customer or country other than the United States accounted for more than 10% of fiscal year
+2016, 2015, or 2014 revenue. Revenue, classified by the major geographic areas in which our customers are located, was
+as follows:
+(In millions)
+Year Ended June 30, 2016 2015 2014
+United States (a) $ 40,578 $ 42,941 $ 43,474
+Other countries 44,742 50,639 43,359
+Total $ 85,320 $ 93,580 $ 86,833
+(a) Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the
+impracticability of determining the geographic source of the revenue.
+Revenue from external customers, classified by significant product and service offerings were as follows:
+(In millions)
+Year Ended June 30, 2016 2015 2014
+Microsoft Office system $ 23,588 $ 23,538 $ 24,323
+Server products and tools 19,177 18,612 17,055
+Xbox 9,395 9,121 8,643
+Windows PC operating system 8,104 (a) 14,826 16,856
+Advertising 6,098 4,557 4,016
+Consulting and product support services 5,641 5,090 4,767
+Surface 4,108 3,900 1,883
+Phone 3,358 7,702 3,073
+Other 5,851 6,234 6,217
+Total $ 85,320 $ 93,580 $ 86,833
+(a) Includes a net $6.6 billion of revenue deferrals related to sales of Windows 10.
+93
+Table of Contents
+PART II
+Item 8
+Our total commercial cloud revenue, which primarily comprises Office 365 commercial, Azure, Dynamics Online, and other
+cloud properties, was $9.5 billion, $5.8 billion, and $2.8 billion in fiscal years 2016, 2015, and 2014, respectively. These
+amounts are included in their respective product categories in the table above.
+Assets are not allocated to segments for internal reporting presentations. A portion of amortization and depreciation is
+included with various other costs in an overhead allocation to each segment; it is impracticable for us to separately identify
+the amount of amortization and depreciation by segment that is included in the measure of segment profit or loss.
+Long-lived assets, excluding financial instruments and tax assets, classified by the location of the controlling statutory
+company and with countries over 10% of the total shown separately, were as follows:
+(In millions)
+June 30, 2016 2015 2014
+United States $ 22,819 $ 19,562 $ 17,653
+Luxembourg 6,854 6,879 6,913
+Finland 389 1,757 9,840
+Other countries 9,899 8,307 5,713
+Total $ 39,961 $ 36,505 $ 40,119
+NOTE 22 — QUARTERLY INFORMATION (UNAUDITED)
+(In millions, except per share amounts)
+Quarter Ended September 30 December 31 March 31 June 30 Total
+Fiscal Year 2016
+Revenue (a) $ 20,379 $ 23,796 $ 20,531 $ 20,614 $ 85,320
+Gross margin 13,172 13,924 12,809 12,635 52,540
+Operating income 5,793 6,026 5,283 3,080 20,182
+Net income 4,902 5,018 3,756 3,122 (b) 16,798 (b)
+Basic earnings per share 0.61 0.63 0.48 0.40 2.12
+Diluted earnings per share 0.61 0.62 0.47 0.39 (b) 2.10 (b)
+Fiscal Year 2015
+Revenue $ 23,201 $ 26,470 $ 21,729 $ 22,180 $ 93,580
+Gross margin 14,928 16,334 14,568 14,712 60,542
+Operating income (loss) 5,844 7,776 6,594 (2,053) 18,161
+Net income (loss) 4,540 5,863 4,985 (3,195) (c) 12,193 (d)
+Basic earnings (loss) per share 0.55 0.71 0.61 (0.40) 1.49
+Diluted earnings (loss) per share 0.54 0.71 0.61 (0.40) (c) 1.48 (d)
+(a) Reflects the impact of the net revenue deferral from Windows 10 of $1.3 billion, $1.7 billion, $1.6 billion, and $2.0
+billion, for the first, second, third, and fourth quarter of fiscal year 2016, respectively, and $6.6 billion for fiscal year
+2016.
+(b) Includes $630 million of asset impairment charges related to our phone business, and $480 million of restructuring
+charges associated with our 2016 restructuring plans, which together decreased net income and diluted EPS by
+$895 million and $0.11, respectively.
+(c) Includes $7.5 billion of goodwill and asset impairment charges related to our phone business, and $940 million of
+integration and restructuring expenses, primarily associated with our Phone Hardware Restructuring Plan, which
+together decreased net income and diluted EPS by $8.3 billion and $1.02, respectively.
+(d) Includes $7.5 billion of goodwill and asset impairment charges related to our phone business, and $2.5 billion of
+integration and restructuring expenses, primarily associated with our Phone Hardware Integration Plan and Phone
+Hardware Restructuring Plan, which together decreased net income and diluted EPS by $9.5 billion and $1.15,
+respectively.
+94
+Table of Contents
+PART II
+Item 8
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Stockholders of Microsoft Corporation
+Redmond, Washington
+We have audited the accompanying consolidated balance sheets of Microsoft Corporation and subsidiaries (the
+“Company”) as of June 30, 2016 and 2015, and the related consolidated statements of income, comprehensive income,
+cash flows, and stockholders’ equity for each of the three years in the period ended June 30, 2016. These financial
+statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United
+States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used
+and significant estimates made by management, as well as evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion.
+In our opinion, such consolidated financial statements present fairly, in all material respects, the financial position of
+Microsoft Corporation and subsidiaries as of June 30, 2016 and 2015, and the results of their operations and their cash
+flows for each of the three years in the period ended June 30, 2016, in conformity with accounting principles generally
+accepted in the United States of America.
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United
+States), the Company’s internal control over financial reporting as of June 30, 2016, based on the criteria established in
+Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway
+Commission and our report dated July 28, 2016 expressed an unqualified opinion on the Company’s internal control over
+financial reporting.
+/S/ DELOITTE & TOUCHE LLP
+Seattle, Washington
+July 28, 2016
+95
+Table of Contents
+PART II
+Item 9, 9A
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+Not applicable.
+ITEM 9A. CONTROLS AND PROCEDURES
+Under the supervision and with the participation of our management, including the Chief Executive Officer and Chief
+Financial Officer, we have evaluated the effectiveness of our disclosure controls and procedures as required by Exchange
+Act Rule 13a-15(b) as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer
+and Chief Financial Officer have concluded that these disclosure controls and procedures are effective.
+REPORT OF MANAGEMENT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting for the
+company. Internal control over financial reporting is a process to provide reasonable assurance regarding the reliability of
+our financial reporting for external purposes in accordance with accounting principles generally accepted in the United
+States of America. Internal control over financial reporting includes maintaining records that in reasonable detail accurately
+and fairly reflect our transactions; providing reasonable assurance that transactions are recorded as necessary for
+preparation of our financial statements; providing reasonable assurance that receipts and expenditures of company assets
+are made in accordance with management authorization; and providing reasonable assurance that unauthorized
+acquisition, use, or disposition of company assets that could have a material effect on our financial statements would be
+prevented or detected on a timely basis. Because of its inherent limitations, internal control over financial reporting is not
+intended to provide absolute assurance that a misstatement of our financial statements would be prevented or detected.
+Management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the
+framework in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the
+Treadway Commission. Based on this evaluation, management concluded that the company’s internal control over
+financial reporting was effective as of June 30, 2016. There were no changes in our internal control over financial reporting
+during the quarter ended June 30, 2016 that have materially affected, or are reasonably likely to materially affect, our
+internal control over financial reporting. Deloitte & Touche LLP has audited our internal control over financial reporting as
+of June 30, 2016; their report is included in Item 9A.
+96
+Table of Contents
+PART II
+Item 9A
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Stockholders of Microsoft Corporation
+Redmond, Washington
+We have audited the internal control over financial reporting of Microsoft Corporation and subsidiaries (the “Company”) as
+of June 30, 2016, based on criteria established in Internal Control – Integrated Framework (2013) issued by the
+Committee of Sponsoring Organizations of the Treadway Commission. The Company’s management is responsible for
+maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control
+over financial reporting, included in the accompanying Report of Management on Internal Control over Financial
+Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on
+our audit.
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United
+States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether
+effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an
+understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and
+evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such
+other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable
+basis for our opinion.
+A company’s internal control over financial reporting is a process designed by, or under the supervision of, the company’s
+principal executive and principal financial officers, or persons performing similar functions, and effected by the company’s
+board of directors, management, and other personnel to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted
+accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1)
+pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and
+dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary
+to permit preparation of financial statements in accordance with generally accepted accounting principles, and that
+receipts and expenditures of the company are being made only in accordance with authorizations of management and
+directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+Because of the inherent limitations of internal control over financial reporting, including the possibility of collusion or
+improper management override of controls, material misstatements due to error or fraud may not be prevented or detected
+on a timely basis. Also, projections of any evaluation of the effectiveness of the internal control over financial reporting to
+future periods are subject to the risk that the controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate.
+In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of
+June 30, 2016, based on the criteria established in Internal Control – Integrated Framework (2013) issued by the
+Committee of Sponsoring Organizations of the Treadway Commission.
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United
+States), the consolidated financial statements as of and for the year ended June 30, 2016 of the Company and our report
+dated July 28, 2016 expressed an unqualified opinion on those financial statements.
+/S/ DELOITTE & TOUCHE LLP
+Seattle, Washington
+July 28, 2016
+97
+Table of Contents
+PART II, III
+Item 9B, 10, 11, 12, 13, 14
+ITEM 9B. OTHER INFORMATION
+Not applicable.
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+A list of our executive officers and biographical information appears in Part I, Item 1 of this Form 10-K. Information about
+our directors may be found under the caption “Our director nominees” in our Proxy Statement for the Annual Meeting of
+Shareholders to be held November 30, 2016 (the “Proxy Statement”). Information about our Audit Committee may be
+found under the caption “Board committees” in the Proxy Statement. That information is incorporated herein by reference.
+The information in the Proxy Statement set forth under the caption “Section 16(a) Beneficial ownership reporting
+compliance” is incorporated herein by reference.
+We have adopted the Microsoft Finance Code of Professional Conduct (the “finance code of ethics”), a code of ethics that
+applies to our Chief Executive Officer, Chief Financial Officer, Chief Accounting Officer and Corporate Controller, and other
+finance organization employees. The finance code of ethics is publicly available on our website at
+www.microsoft.com/investor/MSFinanceCode. If we make any substantive amendments to the finance code of ethics or
+grant any waiver, including any implicit waiver, from a provision of the code to our Chief Executive Officer, Chief Financial
+Officer, or Chief Accounting Officer and Corporate Controller, we will disclose the nature of the amendment or waiver on
+that website or in a report on Form 8-K.
+ITEM 11. EXECUTIVE COMPENSATION
+The information in the Proxy Statement set forth under the captions “Director compensation,” “Named executive officer
+compensation,” “Compensation Committee interlocks and insider participation,” and “Compensation Committee report” is
+incorporated herein by reference.
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+AND RELATED STOCKHOLDER MATTERS
+The information in the Proxy Statement set forth under the captions “Stock ownership information” and “Equity
+compensation plan information” is incorporated herein by reference.
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND
+DIRECTOR INDEPENDENCE
+The information set forth in the Proxy Statement under the captions “Director independence” and “Certain relationships
+and related transactions” is incorporated herein by reference.
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+Information concerning principal accountant fees and services appears in the Proxy Statement under the headings “Fees
+billed by Deloitte & Touche” and “Policy on Audit Committee pre-approval of audit and permissible non-audit services of
+independent auditor” and is incorporated herein by reference.
+98
+Table of Contents
+PART IV
+Item 15
+PART IV
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+(a) Financial Statements and Schedules
+The financial statements are set forth under Item 8 of this Form 10-K, as indexed below. Financial statement schedules
+have been omitted since they either are not required, not applicable, or the information is otherwise included.
+Index to Financial Statements Page
+Income Statements 52
+Comprehensive Income Statements 53
+Balance Sheets 54
+Cash Flows Statements 55
+Stockholders’ Equity Statements 56
+Notes to Financial Statements 57
+Report of Independent Registered Public Accounting Firm 95
+(b) Exhibit Listing
+Incorporated by Reference
+Exhibit Filed Period
+Number Ehibit Description Herewith Form Ending Exhibit Filing Date
+2.1 Agreement and Plan of Merger, dated as of 8-K*** 2.1 6/13/16
+June 11, 2016, by and among Microsoft
+Corporation, Liberty Merger Sub Inc., and
+LinkedIn Corporation
+3.1 Amended and Restated Articles of Incorporation 8-K 3.1 3/17/16
+of Microsoft Corporation
+3.2 Bylaws of Microsoft Corporation 8-K 3.2 7/5/16
+4.1 Form of Indenture between Microsoft Corporation 3-ASR 4.1 11/20/08
+and The Bank of New York Mellon Trust
+Company, N.A., as Trustee (“Base Indenture”)
+4.2 Form of First Supplemental Indenture for 2.95% 8-K 4.2 5/15/09
+Notes due 2014, 4.20% Notes due 2019, and
+5.20% Notes due 2039, dated as of May 18,
+2009, between Microsoft Corporation and The
+Bank of New York Mellon Trust Company, N.A.,
+as Trustee, to the Base Indenture
+4.5 Form of Second Supplemental Indenture for 8-K 4.5 9/27/10
+0.875% Notes due 2013, 1.625% Notes due
+2015, 3.00% Notes due 2020, and 4.50% Notes
+due 2040, dated as of September 27, 2010,
+between Microsoft Corporation and The Bank of
+New York Mellon Trust Company, N.A., as
+Trustee, to the Indenture, dated as of May 18,
+2009, between Microsoft Corporation and The
+Bank of New York Mellon Trust Company, N.A.,
+as Trustee
+99
+Table of Contents
+PART IV
+Item 15
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+4.6 Third Supplemental Indenture for 2.500% Notes due 8-K 4.6 2/8/11
+2016, 4.000% Notes due 2021, and 5.300% Notes
+due 2041, dated as of February 8, 2011, between
+Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to the
+Indenture, dated as of May 18, 2009, between
+Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee
+4.7 Fourth Supplemental Indenture for 0.875% Notes due 8-K 4.7 11/7/12
+2017, 2.125% Notes due 2022, and 3.500% Notes
+due 2042, dated as of November 7, 2012, between
+Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to the
+Indenture, dated as of May 18, 2009, between
+Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee
+4.8 Fifth Supplemental Indenture for 2.625% Notes due 8-K 4.1 5/1/13
+2033, dated as of May 2, 2013 between Microsoft
+Corporation and The Bank of New York Mellon Trust
+Company, N.A., as Trustee, to the Indenture, dated as
+of May 18, 2009, between Microsoft Corporation and
+The Bank of New York Mellon Trust Company, N.A.,
+as Trustee
+4.9 Sixth Supplemental Indenture for 1.000% Notes due 8-K 4.2 5/1/13
+2018, 2.375% Notes due 2023, and 3.750% Notes
+due 2043, dated as of May 2, 2013, between
+Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to the
+Indenture, dated as of May 18, 2009, between
+Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee
+4.10 Seventh Supplemental Indenture for 2.125% Notes 8-K 4.1 12/6/13
+due 2021 and 3.125% Notes due 2028, dated as of
+December 6, 2013, between Microsoft Corporation
+and The Bank of New York Mellon Trust Company,
+N.A., as Trustee, to the Indenture, dated as of May
+18, 2009, between Microsoft Corporation and The
+Bank of New York Mellon Trust Company, N.A., as
+Trustee
+4.11 Eighth Supplemental Indenture for 1.625% Notes due 8-K 4.2 12/6/13
+2018, 3.625% Notes due 2023, and 4.875% Notes
+due 2043, dated as of December 6, 2013, between
+Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to the
+Indenture, dated as of May 18, 2009, between
+Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee
+100
+Table of Contents
+PART IV
+Item 15
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+4.12 Ninth Supplemental Indenture for 1.850% Notes due 8-K 4.1 2/12/15
+2020, 2.375% Notes due 2022, 2.700% Notes due 2025,
+3.500% Notes due 2035, 3.750% Notes due 2045, and
+4.000% Notes due 2055, dated as of February 12, 2015,
+between Microsoft Corporation and U.S. Bank National
+Association, as Trustee, to the Indenture, dated as of May
+18, 2009, between Microsoft Corporation and The Bank of
+New York Mellon Trust Company, N.A., as Trustee
+4.13 Tenth Supplemental Indenture for 1.300% Notes due 8-K 4.1 11/3/15
+2018, 2.000% Notes due 2020, 2.650% Notes due 2022,
+3.125% Notes due 2025, 4.200% Notes due 2035,
+4.450% Notes due 2045, and 4.750% Notes due 2055,
+dated as of November 3, 2015, between Microsoft
+Corporation and U.S. Bank National Association, as
+Trustee, to the Indenture, dated as of May 18, 2009,
+between Microsoft Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee
+10.1* Microsoft Corporation 2001 Stock Plan X
+10.3* Microsoft Corporation 1999 Stock Plan for Non-Employee 8-K 10.3 11/15/04
+Directors
+10.4* Microsoft Corporation Employee Stock Purchase Plan 10-K 6/30/12 10.4 7/26/12
+10.5* Microsoft Corporation Deferred Compensation Plan 10-Q 3/31/12 10.5 4/19/12
+10.7* Form of Stock Award Agreement for Non-Employee 10-K 6/30/04 10.9 9/1/04
+Directors under the Microsoft Corporation 1999 Stock
+Plan for Non-Employee Directors
+10.10* Form of Stock Option Agreement under the Microsoft 10-K 6/30/04 10.12 9/1/04
+Corporation 2001 Stock Plan
+10.11* Form of Stock Option Agreement for Non-Employee 10-K 6/30/04 10.13 9/1/04
+Directors under the 1999 Stock Plan for Non-Employee
+Directors
+10.12 2009 Officers’ Indemnification Trust Agreement between 10-K 6/30/10 10.12 7/30/10
+Microsoft Corporation and The Bank of New York Mellon
+Trust Company, as trustee
+10.13 Amended and Restated 2003 Indemnification Trust 10-K 6/30/10 10.13 7/30/10
+Agreement between Microsoft Corporation and The Bank
+of New York Mellon Trust Company, as trustee
+10.14* Microsoft Corporation Deferred Compensation Plan for 10-K 6/30/15 10.14 7/31/15
+Non-Employee Directors
+10.17* Executive Officer Incentive Plan 10-Q 9/30/15 10.17 10/22/15
+101
+Table of Contents
+PART IV
+Item 15
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+10.18* Form of Executive Officer Incentive Plan Stock Award 10-Q 9/30/15 10.18 10/22/15
+Agreement under the Microsoft Corporation 2001 Stock
+Plan
+10.19* Resignation Agreement and Full and Final Release of 10-K 6/30/13 10.19 7/30/13
+Claims between Microsoft Corporation and Steven
+Sinofsky
+10.21* Stock Award Agreement under the Microsoft 10-Q 9/30/15 10.21 10/22/15
+Corporation 2001 Stock Plan (Service-Based)
+10.22* Senior Executive Severance Benefit Plan 10-Q 9/30/15 10.22 10/22/15
+10.23* Offer Letter, dated February 3, 2014, between 8-K 10.1 2/4/14
+Microsoft Corporation and Satya Nadella
+10.24* Long-Term Performance Stock Award Agreement 10-Q 12/31/14 10.24 1/26/15
+between Microsoft Corporation and Satya Nadella
+10.25* Form of Executive Officer Incentive Plan Performance 10-Q 9/30/15 10.25 10/22/15
+Stock Award Agreement under the Microsoft
+Corporation 2001 Stock Plan
+12 Computation of Ratio of Earnings to Fixed Charges X
+21 Subsidiaries of Registrant X
+23.1 Consent of Independent Registered Public Accounting X
+Firm
+31.1 Certifications of Chief Executive Officer Pursuant to X
+Section 302 of the Sarbanes-Oxley Act of 2002
+31.2 Certifications of Chief Financial Officer Pursuant to X
+Section 302 of the Sarbanes-Oxley Act of 2002
+32.1** Certifications of Chief Executive Officer Pursuant to X
+Section 906 of the Sarbanes-Oxley Act of 2002
+32.2** Certifications of Chief Financial Officer Pursuant to X
+Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS XBRL Instance Document X
+101.SCH XBRL Taxonomy Extension Schema X
+101.CAL XBRL Taxonomy Extension Calculation Linkbase X
+101.DEF XBRL Taxonomy Extension Definition Linkbase X
+101.LAB XBRL Taxonomy Extension Label Linkbase X
+101.PRE XBRL Taxonomy Extension Presentation Linkbase X
+* Indicates a management contract or compensatory plan or arrangement
+** Furnished, not filed
+*** Form 8-K of LinkedIn Corporation
+102
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned; thereunto duly authorized, in the City of Redmond, State
+of Washington, on July 28, 2016.
+MICROSOFT CORPORATION
+/S/ FRANK H. BROD
+Frank H. Brod
+Corporate Vice President, Finance and Administration;
+Chief Accounting Officer (Principal Accounting Officer)
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following
+persons on behalf of Registrant and in the capacities indicated on July 28, 2016.
+Signature Title
+/S/ JOHN W. THOMPSON Chairman
+John W. Thompson
+/S/ SATYA NADELLA Director and Chief Executive Officer
+Satya Nadella
+/S/ WILLIAM H. GATES III Director
+William H. Gates III
+/S/ TERI L. LIST-STOLL Director
+Teri L. List-Stoll
+/S/ G. MASON MORFIT Director
+G. Mason Morfit
+/S/ CHARLES H. NOSKI Director
+Charles H. Noski
+/S/ HELMUT PANKE Director
+Helmut Panke
+/S/ SANDRA E. PETERSON Director
+Sandra E. Peterson
+/S/ CHARLES W. SCHARF Director
+Charles W. Scharf
+/S/ JOHN W. STANTON Director
+John W. Stanton
+/S/ PADMASREE WARRIOR Director
+Padmasree Warrior
+/S/ AMY E. HOOD Executive Vice President and Chief Financial Officer
+(Principal Financial Officer)
+Amy E. Hood
+/S/ FRANK H. BROD Corporate Vice President, Finance and Administration;
+Chief Accounting Officer
+Frank H. Brod (Principal Accounting Officer)
+103

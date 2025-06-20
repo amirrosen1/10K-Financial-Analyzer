@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Amazon",
+        "year": 2019,
+        "total_net_sales": 280522
+    },
+    {
+        "company": "Amazon",
+        "year": 2020,
+        "total_net_sales": 386064
+    },
+    {
+        "company": "Amazon",
+        "year": 2021,
+        "total_net_sales": 386064
+    },
+    {
+        "company": "Amazon",
+        "year": 2022,
+        "total_net_sales": 529478
+    },
+    {
+        "company": "Apple",
+        "year": 2014,
+        "total_net_sales": 182846
+    },
+    {
+        "company": "Apple",
+        "year": 2015,
+        "total_net_sales": 205666
+    },
+    {
+        "company": "Apple",
+        "year": 2016,
+        "total_net_sales": 215639
+    },
+    {
+        "company": "Apple",
+        "year": 2017,
+        "total_net_sales": 229234
+    },
+    {
+        "company": "Apple",
+        "year": 2018,
+        "total_net_sales": 265595
+    },
+    {
+        "company": "Apple",
+        "year": 2019,
+        "total_net_sales": 260166
+    },
+    {
+        "company": "Microsoft",
+        "year": 2014,
+        "total_net_sales": 86833
+    },
+    {
+        "company": "Microsoft",
+        "year": 2015,
+        "total_net_sales": 93580
+    },
+    {
+        "company": "Microsoft",
+        "year": 2016,
+        "total_net_sales": 85320
+    },
+    {
+        "company": "Microsoft",
+        "year": 2017,
+        "total_net_sales": 89950
+    },
+    {
+        "company": "Microsoft",
+        "year": 2018,
+        "total_net_sales": 110360
+    },
+    {
+        "company": "Microsoft",
+        "year": 2019,
+        "total_net_sales": 125843
+    },
+    {
+        "company": "Microsoft",
+        "year": 2020,
+        "total_net_sales": 143015
+    },
+    {
+        "company": "Microsoft",
+        "year": 2022,
+        "total_net_sales": 170166
+    }
+]

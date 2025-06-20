@@ -1,0 +1,1 @@
+securities 0 4,917 0 4,917 0 4,917 Corporate notes and bonds 0 7,108 1 7,109 0 7,109 Municipal securities 0 319 0 319 0 319 Common and preferred stock 8,585 2,277 14 10,876 0 10,876 Derivatives 4 979 5 988

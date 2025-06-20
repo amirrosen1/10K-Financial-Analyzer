@@ -1,0 +1,1 @@
+hedge accounting treatment, cash flow hedges must be highly effective in offsetting changes to expected future cash flows on hedged transactions. For options designated as cash flow hedges, changes in the time value are excluded from the assessment of hedge

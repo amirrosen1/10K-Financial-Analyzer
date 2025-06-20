@@ -1,0 +1,1 @@
+offsetting losses (gains) on the hedged items attributed to the risk being hedged. For options designated as fair value hedges, changes in the time value are excluded from the assessment of hedge effectiveness and are recognized in earnings. For derivative

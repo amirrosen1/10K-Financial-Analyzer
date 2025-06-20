@@ -1,0 +1,1 @@
+components through a combination of purchase orders, supplier contracts and open orders based on projected demand information. Where appropriate, the purchases are applied to inventory component prepayments that are outstanding with the respective supplier. As of September 27, 2014, the

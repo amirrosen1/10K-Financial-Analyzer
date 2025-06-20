@@ -1,0 +1,17 @@
+{
+    "Highest total net sales in 2019": {
+        "company": "Amazon",
+        "year": 2019,
+        "total_net_sales": 280522
+    },
+    "Average net sales of tech companies in 2020": 264539.5,
+    "Companies with higher net sales than Apple (latest year)": "No data for Apple in the latest year",
+    "Companies with consistent increase in net sales over 3 years": [
+        "Apple",
+        "Microsoft"
+    ],
+    "Most volatile company in net sales": {
+        "company": "Amazon",
+        "volatility_measure": 199531.02731739075
+    }
+}

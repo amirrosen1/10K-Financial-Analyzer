@@ -1,0 +1,1 @@
+is generally reflected in the segment in which the costs are incurred. The majority of technology infrastructure costs are allocated to the AWS segment based on usage. The majority of the remaining non-infrastructure technology costs are incurred in the U.S.

@@ -1,0 +1,76 @@
+Item 9A. Controls and Procedures
+
+Table of Contents
+The items accounting for differences between income taxes computed at the federal statutory rate and the provision recorded
+for income taxes are as follows (in millions):
+Year Ended December 31,
+2020 2021 2022
+Income taxes computed at the federal statutory rate $ 5,078 $ 8,012 $ (1,246)
+Effect of:
+Tax impact of foreign earnings and losses (538) (1,349) (370)
+State taxes, net of federal benefits 343 465 (173)
+Tax credits (639) (1,136) (1,006)
+Stock-based compensation (1) (1,107) (1,094) 612
+Foreign income deduction (2) (372) (301) (1,258)
+Other, net 98 194 224
+Total $ 2,863 $ 4,791 $ (3,217)
+___________________
+(1) Includes non-deductible stock-based compensation and excess tax benefits or shortfalls from stock-based compensation. Our
+tax provision includes $1.8 billion and $1.9 billion of excess tax benefits from stock-based compensation for 2020 and 2021,
+and a $33 million tax shortfall from stock-based compensation for 2022.
+(2) U.S. companies are eligible for a deduction that lowers the effective tax rate on certain foreign income. This regime is referred
+to as the Foreign-Derived Intangible Income deduction.
+Our provision for income taxes in 2021 was higher than in 2020 primarily due to an increase in pretax income. This was
+partially offset by an increase in U.S. federal research and development credits and the impact of the distribution of certain
+intangible assets from Luxembourg to the U.S. in Q4 2021, resulting in the utilization of $2.6 billion of Luxembourg deferred tax
+assets previously subject to a valuation allowance.
+We generated an income tax benefit in 2022 as compared to a provision for income taxes in 2021 primarily due to a decrease
+in pretax income and an increase in the foreign income deduction. This was partially offset by a reduction in excess tax benefits
+from stock-based compensation and a decrease in the tax impact of foreign earnings and losses driven by a decline in the favorable
+effects of corporate restructuring transactions. The foreign income deduction benefit recognized in 2022 reflects a change in our
+application of tax regulations related to the computation of qualifying foreign income and includes an income tax benefit of
+approximately $655 million related to years prior to 2022.
+We intend to invest substantially all of our foreign subsidiary earnings, as well as our capital in our foreign subsidiaries,
+indefinitely outside of the U.S. in those jurisdictions in which we would incur significant, additional costs upon repatriation of such
+amounts.
+63
+Table of Contents
+Deferred income tax assets and liabilities are as follows (in millions):
+December 31,
+2021 2022
+Deferred tax assets (1):
+Loss carryforwards U.S. - Federal/States 228 386
+Loss carryforwards - Foreign 2,417 2,831
+Accrued liabilities, reserves, and other expenses 2,821 3,280
+Stock-based compensation 2,738 4,295
+Depreciation and amortization 941 1,009
+Operating lease liabilities 15,399 18,285
+Capitalized research and development — 6,824
+Other items 603 1,023
+Tax credits 626 950
+Total gross deferred tax assets 25,773 38,883
+Less valuation allowances (2) (3,596) (4,374)
+Deferred tax assets, net of valuation allowances 22,177 34,509
+Deferred tax liabilities:
+Depreciation and amortization (3,562) (9,039)
+Operating lease assets (14,422) (17,140)
+Assets held for investment (4,019) —
+Other items (668) (817)
+Net deferred tax assets (liabilities), net of valuation allowances $ (494) $ 7,513
+___________________
+(1) Deferred tax assets are presented after tax effects and net of tax contingencies.
+(2) Relates primarily to deferred tax assets that would only be realizable upon the generation of net income in certain foreign
+taxing jurisdictions or future capital gains, as well as tax credits.
+Our valuation allowances primarily relate to foreign deferred tax assets, including substantially all of our foreign net
+operating loss carryforwards as of December 31, 2022. Our foreign net operating loss carryforwards for income tax purposes as of
+December 31, 2022 were approximately $10.4 billion before tax effects and certain of these amounts are subject to annual
+limitations under applicable tax law. If not utilized, a portion of these losses will begin to expire in 2023.
+Tax Contingencies
+We are subject to income taxes in the U.S. (federal and state) and numerous foreign jurisdictions. Significant judgment is
+required in evaluating our tax positions and determining our provision for income taxes. During the ordinary course of business,
+there are many transactions and calculations for which the ultimate tax determination is uncertain. We establish reserves for tax-
+related uncertainties based on estimates of whether, and the extent to which, additional taxes will be due. These reserves are
+established when we believe that certain positions might be challenged despite our belief that our tax return positions are fully
+supportable. We adjust these reserves in light of changing facts and circumstances, such as the outcome of tax audits. The provision
+for income taxes includes the impact of reserve provisions and changes to reserves that are considered appropriate.
+64

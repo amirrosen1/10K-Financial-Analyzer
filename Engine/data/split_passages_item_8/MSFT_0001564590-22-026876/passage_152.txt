@@ -1,0 +1,1 @@
+0 3,615 2,920 695 0 U.S. government Level securities 1 90,664 3,832 (111) 94,385 1,500 92,885 0 U.S. agency Level securities 2 807 2 0 809 0 809 0 Foreign government Level bonds 2 6,213 9 (2) 6,220 225 5,995

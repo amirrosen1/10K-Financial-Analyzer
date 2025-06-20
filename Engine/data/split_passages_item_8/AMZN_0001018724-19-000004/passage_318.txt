@@ -1,0 +1,1 @@
+Amazon Web Services, Inc., and Amazon Web Services, LLC for patent infringement in the United States District Court for the Eastern District of Texas. The complaint alleges that Elastic Compute Cloud, Virtual Private Cloud, Elastic Load Balancing, Auto-Scaling, and Elastic

@@ -1,0 +1,64 @@
+Item 16. Form 10-K Summary
+
+PART IV
+Item 15, 16
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+101.INS XBRL Instance Document X
+101.SCH XBRL Taxonomy Extension Schema X
+101.CAL XBRL Taxonomy Extension Calculation X
+Linkbase
+101.DEF XBRL Taxonomy Extension Definition X
+Linkbase
+101.LAB XBRL Taxonomy Extension Label Linkbase X
+101.PRE XBRL Taxonomy Extension Presentation X
+Linkbase
+* Indicates a management contract or compensatory plan or arrangement
+** Furnished, not filed
+*** Form 8-K of LinkedIn Corporation
+ITEM 16. FORM 10-K SUMMARY
+None.
+103
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned; thereunto duly authorized, in the City of Redmond,
+State of Washington, on August 2, 2017.
+MICROSOFT CORPORATION
+/S/ FRANK H. BROD
+Frank H. Brod
+Corporate Vice President, Finance and Administration;
+Chief Accounting Officer (Principal Accounting Officer)
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the
+following persons on behalf of Registrant and in the capacities indicated on August 2, 2017.
+Signature Title
+/s/ JOHN W. THOMPSON Chairman
+John W. Thompson
+/s/ SATYA NADELLA Director and Chief Executive Officer
+Satya Nadella
+/s/ WILLIAM H. GATES III Director
+William H. Gates III
+/s/ REID HOFFMAN Director
+Reid Hoffman
+/s/ TERI L. LIST-STOLL Director
+Teri L. List-Stoll
+/s/ G. MASON MORFIT Director
+G. Mason Morfit
+/s/ CHARLES H. NOSKI Director
+Charles H. Noski
+/s/ HELMUT PANKE Director
+Helmut Panke
+/s/ SANDRA E. PETERSON Director
+Sandra E. Peterson
+/s/ CHARLES W. SCHARF Director
+Charles W. Scharf
+/s/ JOHN W. STANTON Director
+John W. Stanton
+/s/ PADMASREE WARRIOR Director
+Padmasree Warrior
+/s/ AMY E. HOOD Executive Vice President and Chief Financial Officer
+Amy E. Hood (Principal Financial Officer)
+/s/ FRANK H. BROD Corporate Vice President, Finance and Administration;
+Frank H. Brod Chief Accounting Officer
+(Principal Accounting Officer)
+104

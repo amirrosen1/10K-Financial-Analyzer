@@ -1,0 +1,157 @@
+Item 15. Exhibits, Financial Statement Schedules
+
+Table of Contents
+PART IV
+Item 15. Exhibits, Financial Statement Schedules
+(a) Documents filed as part of this report
+(1) All financial statements
+Index to Consolidated Financial Statements Page
+Consolidated Statements of Operations for the years ended September 26, 2015, September 27, 2014 and
+September 28, 2013 39
+Consolidated Statements of Comprehensive Income for the years ended September 26, 2015, September 27, 2014
+and September 28, 2013 40
+Consolidated Balance Sheets as of September 26, 2015 and September 27, 2014 41
+Consolidated Statements of Shareholders’ Equity for the years ended September 26, 2015, September 27, 2014 and
+September 28, 2013 42
+Consolidated Statements of Cash Flows for the years ended September 26, 2015, September 27, 2014 and
+September 28, 2013 43
+Notes to Consolidated Financial Statements 44
+Selected Quarterly Financial Information (Unaudited) 68
+Reports of Ernst & Young LLP, Independent Registered Public Accounting Firm 69
+(2) Financial Statement Schedules
+All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts
+sufficient to require submission of the schedule, or because the information required is included in the consolidated financial
+statements and notes thereto included in this Form 10-K.
+(3) Exhibits required by Item 601 of Regulation S-K
+The information required by this Section (a)(3) of Item 15 is set forth on the exhibit index that follows the Signatures page of this
+Form 10-K.
+Apple Inc. | 2015 Form 10-K | 73
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Date: October 28, 2015
+Apple Inc.
+By: /s/ Luca Maestri
+Luca Maestri
+Senior Vice President,
+Chief Financial Officer
+Power of Attorney
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Timothy
+D. Cook and Luca Maestri, jointly and severally, his or her attorneys-in-fact, each with the power of substitution, for him or her in any
+and all capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with exhibits thereto and other
+documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of
+said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on
+behalf of the Registrant and in the capacities and on the dates indicated:
+Name Title Date
+/s/ Timothy D. Cook Chief Executive Officer and Director October 28, 2015
+TIMOTHY D. COOK (Principal Executive Officer)
+/s/ Luca Maestri Senior Vice President, Chief Financial Officer October 28, 2015
+LUCA MAESTRI (Principal Financial Officer)
+/s/ Chris Kondo Senior Director of Corporate Accounting October 28, 2015
+CHRIS KONDO (Principal Accounting Officer)
+/s/ Al Gore Director October 28, 2015
+AL GORE
+/s/ Robert A. Iger Director October 28, 2015
+ROBERT A. IGER
+/s/ Andrea Jung Director October 28, 2015
+ANDREA JUNG
+/s/ Arthur D. Levinson Director October 28, 2015
+ARTHUR D. LEVINSON
+/s/ Ronald D. Sugar Director October 28, 2015
+RONALD D. SUGAR
+/s/ Susan L. Wagner Director October 28, 2015
+SUSAN L. WAGNER
+Apple Inc. | 2015 Form 10-K | 74
+Table of Contents
+EXHIBIT INDEX (1)
+Incorporated by
+Reference
+Filing Date/
+Period
+Exhibit End
+Number Exhibit Description Form Exhibit Date
+3.1 Restated Articles of Incorporation of the Registrant effective as of 8-K 3.1 6/6/14
+June 6, 2014.
+3.2 Amended and Restated Bylaws of the Registrant effective as of 8-K 3.2 3/5/14
+February 28, 2014.
+4.1 Form of Common Stock Certificate of the Registrant. 10-Q 4.1 12/30/06
+4.2 Indenture, dated as of April 29, 2013, between the Registrant and The Bank of New York S-3 4.1 4/29/13
+Mellon Trust Company, N.A., as Trustee.
+4.3 Officer’s Certificate of the Registrant, dated as of May 3, 2013, including forms of global 8-K 4.1 5/3/13
+notes representing the Floating Rate Notes due 2016, Floating Rate Notes due 2018,
+0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes
+due 2043.
+4.4 Officer’s Certificate of the Registrant, dated as of May 6, 2014, including forms of global 8-K 4.1 5/6/14
+notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2019,
+1.05% Notes due 2017, 2.10% Notes due 2019, 2.85% Notes due 2021, 3.45% Notes due
+2024 and 4.45% Notes due 2044.
+4.5 Officer’s Certificate of the Registrant, dated as of November 10, 2014, including forms of 8-K 4.1 11/10/14
+global notes representing the 1.000% Notes due 2022 and 1.625% Notes due 2026.
+4.6 Officer’s Certificate of the Registrant, dated as of February 9, 2015, including forms of 8-K 4.1 2/9/15
+global notes representing the Floating Rate Notes due 2020, 1.55% Notes due 2020,
+2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045.
+4.7 Officer’s Certificate of the Registrant, dated as of May 13, 2015, including forms of global 8-K 4.1 5/13/15
+notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2020,
+0.900% Notes due 2017, 2.000% Notes due 2020, 2.700% Notes due 2022, 3.200% Notes
+due 2025, and 4.375% Notes due 2045.
+4.8 Officer’s Certificate of the Registrant, dated as of June 10, 2015, including forms of global 8-K 4.1 6/10/15
+notes representing the 0.35% Notes due 2020.
+4.9 Officer’s Certificate of the Registrant, dated as of July 31, 2015, including forms of global 8-K 4.1 7/31/15
+notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.
+4.10 Officer’s Certificate of the Registrant, dated as of September 17, 2015, including forms of 8-K 4.1 9/17/15
+global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027.
+10.1* Employee Stock Purchase Plan, as amended and restated as of March 10, 2015. 8-K 10.1 3/13/15
+10.2* Form of Indemnification Agreement between the Registrant and each director and 10-Q 10.2 6/27/09
+executive officer of the Registrant.
+10.3* 1997 Director Stock Plan, as amended through August 23, 2012. 10-Q 10.3 12/28/13
+10.4* 2003 Employee Stock Plan, as amended through February 25, 2010. 8-K 10.1 3/1/10
+10.5* Form of Restricted Stock Unit Award Agreement under 2003 Employee Stock Plan 10-Q 10.10 12/25/10
+effective as of November 16, 2010.
+10.6* Form of Restricted Stock Unit Award Agreement under 2003 Employee Stock Plan 10-Q 10.8 3/31/12
+effective as of April 6, 2012.
+Apple Inc. | 2015 Form 10-K | 75
+Table of Contents
+Incorporated by
+Reference
+Filing Date/
+Period
+Exhibit End
+Number Exhibit Description Form Exhibit Date
+10.7* Summary Description of Amendment, effective as of May 24, 2012, to certain Restricted 10-Q 10.8 6/30/12
+Stock Unit Award Agreements outstanding as of April 5, 2012.
+10.8* 2014 Employee Stock Plan. 8-K 10.1 3/5/14
+10.9* Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan as of 8-K 10.2 3/5/14
+February 28, 2014.
+10.10* Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of 8-K 10.3 3/5/14
+February 28, 2014.
+10.11* Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan 10-K 10.11 9/27/14
+effective as of August 26, 2014.
+10.12* Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of 10-K 10.12 9/27/14
+August 26, 2014.
+10.13* Form of Amendment, effective as of August 26, 2014, to Restricted Stock Unit Award 10-K 10.13 9/27/14
+Agreements and Performance Award Agreements outstanding as of August 26, 2014.
+10.14* Offer Letter, dated August 1, 2013, from the Registrant to Angela Ahrendts. 10-Q 10.14 12/27/14
+12.1** Computation of Ratio of Earnings to Fixed Charges.
+21.1** Subsidiaries of the Registrant.
+23.1** Consent of Ernst & Young LLP, Independent Registered Public
+Accounting Firm.
+24.1** Power of Attorney (included on the Signatures page of this
+Annual Report on Form 10-K).
+31.1** Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
+31.2** Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
+32.1*** Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
+101.INS** XBRL Instance Document.
+101.SCH** XBRL Taxonomy Extension Schema Document.
+101.CAL** XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF** XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB** XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE** XBRL Taxonomy Extension Presentation Linkbase Document.
+* Indicates management contract or compensatory plan or arrangement.
+** Filed herewith.
+*** Furnished herewith.
+(1) Certain instruments defining the rights of holders of long-term debt securities of the Registrant are omitted pursuant to Item
+601(b)(4)(iii) of Regulation S-K. The Registrant hereby undertakes to furnish to the SEC, upon request, copies of any such
+instruments.
+Apple Inc. | 2015 Form 10-K | 76

@@ -1,0 +1,53 @@
+Item 1B. Unresolved Staff Comments
+
+Table of Contents
+PART I
+Item 1A
+subject to inherent uncertainties and management’s view of these matters may change in the future. A material adverse
+impact on our consolidated financial statements could occur for the period in which the effect of an unfavorable final
+outcome becomes probable and reasonably estimable.
+We may have additional tax liabilities. We are subject to income taxes in the U.S. and many foreign jurisdictions.
+Significant judgment is required in determining our worldwide provision for income taxes. In the ordinary course of our
+business, there are many transactions and calculations where the ultimate tax determination is uncertain. We regularly are
+under audit by tax authorities. Economic and political pressures to increase tax revenue in various jurisdictions may make
+resolving tax disputes favorably more difficult. Although we believe our tax estimates are reasonable, the final
+determination of tax audits and any related litigation could be materially different from our historical income tax provisions
+and accruals. The results of an audit or litigation could have a material effect on our consolidated financial statements in
+the period or periods in which that determination is made.
+We earn a significant amount of our operating income from outside the U.S., and any repatriation of funds currently held in
+foreign jurisdictions to the U.S. may result in higher effective tax rates for the company. In addition, there have been
+proposals from Congress to change U.S. tax laws that would significantly impact how U.S. multinational corporations are
+taxed on foreign earnings. Although we cannot predict whether or in what form any proposed legislation may pass, if
+enacted, it could have a material adverse impact on our tax expense and cash flows.
+Our hardware and software products may experience quality or supply problems. Our vertically-integrated
+hardware products such as Xbox consoles, Surface devices, phones, and other devices we design, manufacture, and
+market are highly complex and can have defects in design, manufacture, or associated software. We could incur
+significant expenses, lost revenue, and reputational harm if we fail to detect or address such issues through design,
+testing, or warranty repairs. We acquire some device components from sole suppliers. Our competitors use some of the
+same suppliers and their demand for hardware components can affect the capacity available to us. If a component from a
+sole-source supplier is delayed or becomes unavailable, whether because of supplier capacity constraint or industry
+shortages, we may not obtain timely replacement supplies, resulting in reduced sales. Component shortages, excess or
+obsolete inventory, or price reductions resulting in inventory adjustments may increase our cost of revenue. Xbox
+consoles, Surface devices, phones, and other hardware are assembled in Asia and other geographies that may be subject
+to disruptions in the supply chain, resulting in shortages that would affect our revenue and operating margins. These same
+risks would apply to any other vertically-integrated hardware and software products we may offer.
+Our software products also may experience quality or reliability problems. The highly sophisticated software products we
+develop may contain bugs and other defects that interfere with their intended operation. Any defects we do not detect and
+fix in pre-release testing could cause reduced sales and revenue, damage to our reputation, repair or remediation costs,
+delays in the release of new products or versions, or legal liability. Although our license agreements typically contain
+provisions that eliminate or limit our exposure to liability, there is no assurance these provisions will withstand legal
+challenge.
+Our global business exposes us to operational and economic risks. Our customers are located in over 200
+countries and a significant part of our revenue comes from international sales. The global nature of our business creates
+operational and economic risks. Emerging markets are a significant focus of our international growth strategy. The
+developing nature of these markets presents several risks, including deterioration of social, political, labor, or economic
+conditions in a country or region, and difficulties in staffing and managing foreign operations. Although we hedge a portion
+of our international currency exposure, significant fluctuations in foreign exchange rates between the U.S. dollar and
+foreign currencies may adversely affect our revenue. Competitive or regulatory pressure to make our pricing structure
+uniform might require that we reduce the sales price of our software in the U.S. and other countries.
+Catastrophic events or geopolitical conditions may disrupt our business. A disruption or failure of our systems or
+operations because of a major earthquake, weather event, cyber-attack, terrorist attack, or other catastrophic event could
+cause delays in completing sales, providing services, or performing other critical functions. Our corporate headquarters, a
+significant portion of our research and development activities, and certain other essential business operations are in the
+Seattle, Washington area, and we have other business operations in the
+25

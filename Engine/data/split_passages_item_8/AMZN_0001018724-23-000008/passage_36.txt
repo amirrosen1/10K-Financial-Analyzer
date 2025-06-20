@@ -1,0 +1,1 @@
+expenses: Cost of sales 272,344 288,831 304,739 Fulfillment 75,111 84,299 90,619 Technology and infrastructure 56,052 73,213 85,622 Sales and marketing 32,551 42,238 44,370 General and administrative 8,823 11,891 11,816 Other operating expense (income), net 62 1,263 767 Total operating expenses

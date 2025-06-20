@@ -1,0 +1,1 @@
+In the past, option and forward contracts were used to hedge a portion of forecasted international revenue and were designated as cash flow hedging instruments. Principal currencies hedged included the Euro, Japanese yen, British pound, Canadian dollar, and Australian dollar.

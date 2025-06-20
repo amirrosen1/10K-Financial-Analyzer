@@ -1,0 +1,1 @@
+models project future cash flows and discount the future amounts to a present value using market-based observable inputs including interest rate curves, credit spreads, foreign exchange rates, and forward and spot prices for currencies. Our Level 2 investments include commercial

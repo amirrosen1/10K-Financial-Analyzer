@@ -1,0 +1,93 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Management believes it is more likely than not that forecasted income, including income that may be generated as a result of certain
+tax planning strategies, together with future reversals of existing taxable temporary differences, will be sufficient to recover the
+Company’s deferred tax assets. In the event that the Company determines all or part of its net deferred tax assets are not realizable
+in the future, the Company will record an adjustment to the valuation allowance and a corresponding charge to earnings in the period
+such determination is made. In addition, the calculation of tax liabilities involves significant judgment in estimating the impact of
+uncertainties in the application of GAAP and complex tax laws. Resolution of these uncertainties in a manner inconsistent with
+management’s expectations could have a material impact on the Company’s financial condition and operating results.
+On December 22, 2017, the U.S. enacted the Act, which significantly changed U.S. tax law. The Act lowered the Company’s U.S.
+statutory federal income tax rate from 35% to 21% effective January 1, 2018, while also imposing a deemed repatriation tax on
+previously deferred foreign income. The Act also created a new minimum tax on certain future foreign earnings. The impact of the
+Act increased the Company’s provision for income taxes by $1.5 billion during 2018. This increase was composed of $2.0 billion
+related to the remeasurement of net deferred tax assets and liabilities and $1.2 billion associated with the deemed repatriation tax,
+partially offset by a $1.7 billion impact the deemed repatriation tax had on the Company’s unrecognized tax benefits. Certain
+amounts reported by the Company related to the Act are provisional estimates in accordance with the SEC Staff Accounting Bulletin
+No. 118. Resolution of the Act’s effects different from the assumptions made by the Company could have a material impact on the
+Company’s financial condition and operating results.
+Legal and Other Contingencies
+As discussed in Part I, Item 3 of this Form 10-K under the heading “Legal Proceedings” and in Part II, Item 8 of this Form 10-K in the
+Notes to Consolidated Financial Statements in Note 9, “Commitments and Contingencies,” the Company is subject to various legal
+proceedings and claims that arise in the ordinary course of business. The Company records a liability when it is probable that a loss
+has been incurred and the amount is reasonably estimable, the determination of which requires significant judgment. Except as
+described in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 9, “Commitments and
+Contingencies” under the heading “Contingencies,” in the opinion of management, there was not at least a reasonable possibility the
+Company may have incurred a material loss, or a material loss in excess of a recorded accrual, with respect to loss contingencies
+for asserted legal and other claims.
+The outcome of litigation is inherently uncertain. If one or more legal matters were resolved against the Company in a reporting
+period for amounts in excess of management’s expectations, the Company’s financial condition and operating results for that
+reporting period could be materially adversely affected.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+Interest Rate and Foreign Currency Risk Management
+The Company regularly reviews its foreign exchange forward and option positions and interest rate swaps, both on a stand-alone
+basis and in conjunction with its underlying foreign currency and interest rate exposures. Given the effective horizons of the
+Company’s risk management activities and the anticipatory nature of the exposures, there can be no assurance these positions will
+offset more than a portion of the financial impact resulting from movements in either foreign exchange or interest rates. Further, the
+recognition of the gains and losses related to these instruments may not coincide with the timing of gains and losses related to the
+underlying economic exposures and, therefore, may adversely affect the Company’s financial condition and operating results.
+Interest Rate Risk
+The Company’s exposure to changes in interest rates relates primarily to the Company’s investment portfolio and outstanding debt.
+While the Company is exposed to global interest rate fluctuations, the Company’s interest income and expense are most sensitive to
+fluctuations in U.S. interest rates. Changes in U.S. interest rates affect the interest earned on the Company’s cash, cash equivalents
+and marketable securities and the fair value of those securities, as well as costs associated with hedging and interest paid on the
+Company’s debt.
+The Company’s investment policy and strategy are focused on preservation of capital and supporting the Company’s liquidity
+requirements. The Company uses a combination of internal and external management to execute its investment strategy and
+achieve its investment objectives. The Company typically invests in highly rated securities, with the primary objective of minimizing
+the potential risk of principal loss. The Company’s investment policy generally requires securities to be investment grade and limits
+the amount of credit exposure to any one issuer. To provide a meaningful assessment of the interest rate risk associated with the
+Company’s investment portfolio, the Company performed a sensitivity analysis to determine the impact a change in interest rates
+would have on the value of the investment portfolio assuming a 100 basis point parallel shift in the yield curve. Based on investment
+positions as of September 29, 2018 and September 30, 2017, a hypothetical 100 basis point increase in interest rates across all
+maturities would result in a $4.9 billion and $6.0 billion incremental decline in the fair market value of the portfolio, respectively. Such
+losses would only be realized if the Company sold the investments prior to maturity.
+Apple Inc. | 2018 Form 10-K | 35
+As of September 29, 2018 and September 30, 2017, the Company had outstanding floating- and fixed-rate notes with varying
+maturities for an aggregate carrying amount of $102.5 billion and $103.7 billion, respectively. The Company has entered, and in the
+future may enter, into interest rate swaps to manage interest rate risk on its outstanding term debt. Interest rate swaps allow the
+Company to effectively convert fixed-rate payments into floating-rate payments or floating-rate payments into fixed-rate payments.
+Gains and losses on term debt are generally offset by the corresponding losses and gains on the related hedging instrument. A 100
+basis point increase in market interest rates would cause interest expense on the Company’s debt as of September 29, 2018 and
+September 30, 2017 to increase by $399 million and $376 million on an annualized basis, respectively.
+Further details regarding the Company’s debt is provided in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial
+Statements in Note 5, “Debt.”
+Foreign Currency Risk
+In general, the Company is a net receiver of currencies other than the U.S. dollar. Accordingly, changes in exchange rates, and in
+particular a strengthening of the U.S. dollar, will negatively affect the Company’s net sales and gross margins as expressed in U.S.
+dollars. There is a risk that the Company will have to adjust local currency product pricing due to competitive pressures when there
+has been significant volatility in foreign currency exchange rates.
+The Company may enter into foreign currency forward and option contracts with financial institutions to protect against foreign
+exchange risks associated with certain existing assets and liabilities, certain firmly committed transactions, forecasted future cash
+flows and net investments in foreign subsidiaries. In addition, the Company has entered, and in the future may enter, into foreign
+currency contracts to partially offset the foreign currency exchange gains and losses on its foreign currency–denominated debt
+issuances. The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and
+inventory purchases, typically for up to 12 months. However, the Company may choose not to hedge certain foreign exchange
+exposures for a variety of reasons including, but not limited to, accounting considerations or the prohibitive economic cost of hedging
+particular exposures.
+To provide a meaningful assessment of the foreign currency risk associated with certain of the Company’s foreign currency
+derivative positions, the Company performed a sensitivity analysis using a value-at-risk (“VAR”) model to assess the potential impact
+of fluctuations in exchange rates. The VAR model consisted of using a Monte Carlo simulation to generate thousands of random
+market price paths assuming normal market conditions. The VAR is the maximum expected loss in fair value, for a given confidence
+interval, to the Company’s foreign currency derivative positions due to adverse movements in rates. The VAR model is not intended
+to represent actual losses but is used as a risk estimation and management tool. Forecasted transactions, firm commitments and
+assets and liabilities denominated in foreign currencies were excluded from the model. Based on the results of the model, the
+Company estimates with 95% confidence, a maximum one-day loss in fair value of $592 million as of September 29, 2018 compared
+to a maximum one-day loss in fair value of $485 million as of September 30, 2017. Because the Company uses foreign currency
+instruments for hedging purposes, the losses in fair value incurred on those instruments are generally offset by increases in the fair
+value of the underlying exposures.
+Actual future gains and losses associated with the Company’s investment portfolio, debt and derivative positions may differ
+materially from the sensitivity analyses performed as of September 29, 2018 due to the inherent limitations associated with
+predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual exposures
+and positions.
+Apple Inc. | 2018 Form 10-K | 36

@@ -1,0 +1,129 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif; /* Clean and modern font */
+  background: #f3f4f6; /* Neutral light gray background */
+  color: #333; /* Slightly muted black for text */
+  line-height: 1.6; /* Better readability */
+}
+
+a {
+  text-decoration: none; /* Remove underlines for links */
+  color: inherit; /* Match text color of the parent */
+}
+
+button {
+  cursor: pointer;
+  transition: all 0.3s ease; /* Smooth hover animations */
+  border: none; /* Remove default button borders */
+}
+
+/* Buttons: Hover Effects */
+button:hover {
+  transform: scale(1.05); /* Slight scaling on hover */
+  transition: all 0.2s ease; /* Smooth hover transition */
+}
+
+/* Utility Classes */
+.text-center {
+  text-align: center;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+/* App-Specific Styles */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #f3f4f6; /* Neutral background matching global */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #333; /* Match global text color */
+}
+
+/* App Logo */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  animation: App-logo-spin infinite 10s linear; /* Reduced spin speed */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 10s linear; /* Keep animation for non-reduced-motion */
+  }
+}
+
+/* App Link */
+.App-link {
+  color: #3498db; /* Modern blue for links */
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.App-link:hover {
+  color: #1f78b4; /* Slightly darker blue on hover */
+}
+
+/* Navbar Styles */
+nav {
+  background: linear-gradient(135deg, #8e44ad, #3498db); /* Modern gradient */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Depth for Navbar */
+  padding: 0.5rem 1rem;
+  position: sticky; /* Sticky Navbar */
+  top: 0;
+  z-index: 1000;
+}
+
+/* Navbar Buttons */
+nav button {
+  background: none;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0 10px;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+nav button:hover {
+  color: #ffcc80; /* Gold highlight */
+  transform: scale(1.05);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  nav {
+    padding: 0.5rem;
+  }
+
+  nav button {
+    font-size: 0.9rem; /* Adjust button size for small screens */
+  }
+
+  .App-header {
+    padding: 1rem; /* Add padding for smaller screens */
+  }
+}
+
+/* Keyframes for Logo Spin */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

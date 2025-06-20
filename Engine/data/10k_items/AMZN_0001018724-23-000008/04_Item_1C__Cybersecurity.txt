@@ -1,0 +1,108 @@
+Item 1C. Cybersecurity
+
+Table of Contents
+upon delivery. For existing and future payment options we offer to our customers, we currently are subject to, and may become
+subject to additional, regulations and compliance requirements (including obligations to implement enhanced authentication
+processes that could result in significant costs and reduce the ease of use of our payments products), as well as fraud. For certain
+payment methods, including credit and debit cards, we pay interchange and other fees, which may increase over time and raise our
+operating costs and lower profitability. We rely on third parties to provide certain Amazon-branded payment methods and payment
+processing services, including the processing of credit cards, debit cards, electronic checks, and promotional financing. In each
+case, it could disrupt our business if these companies become unwilling or unable to provide these services to us. We also offer co-
+branded credit card programs, which could adversely affect our operating results if renewed on less favorable terms or terminated.
+We are also subject to payment card association operating rules, including data security rules, certification requirements, and rules
+governing electronic funds transfers, which could change or be reinterpreted to make it difficult or impossible for us to comply.
+Failure to comply with these rules or requirements, as well as any breach, compromise, or failure to otherwise detect or prevent
+fraudulent activity involving our data security systems, could result in our being liable for card issuing banks’ costs, subject to fines
+and higher transaction fees, and loss of our ability to accept credit and debit card payments from our customers, process electronic
+funds transfers, or facilitate other types of online payments, and our business and operating results could be adversely affected.
+In addition, we provide regulated services in certain jurisdictions because we enable customers to keep account balances with
+us and transfer money to third parties, and because we provide services to third parties to facilitate payments on their behalf.
+Jurisdictions subject us to requirements for licensing, regulatory inspection, bonding and capital maintenance, the use, handling,
+and segregation of transferred funds, consumer disclosures, maintaining or processing data, and authentication. We are also subject
+to or voluntarily comply with a number of other laws and regulations relating to payments, money laundering, international money
+transfers, privacy, data use, data protection, data security, data localization, network security, consumer protection, and electronic
+fund transfers. If we were found to be in violation of applicable laws or regulations, we could be subject to additional requirements
+and civil and criminal penalties, or forced to cease providing certain services.
+We Have a Rapidly Evolving Business Model and Our Stock Price Is Highly Volatile
+We have a rapidly evolving business model. The trading price of our common stock fluctuates significantly in response to,
+among other risks, the risks described elsewhere in this Item 1A, as well as:
+• changes in interest rates;
+• conditions or trends in the internet and the industry segments we operate in;
+• quarterly variations in operating results;
+• fluctuations in the stock market in general and market prices for internet-related companies in particular;
+• changes in financial estimates by us or decisions to increase or decrease future spending or investment levels;
+• changes in financial estimates and recommendations by securities analysts;
+• changes in our capital structure, including issuance of additional debt or equity to the public;
+• changes in the valuation methodology of, or performance by, other e-commerce or technology companies; and
+• transactions in our common stock by major investors and certain analyst reports, news, and speculation.
+Volatility in our stock price could adversely affect our business and financing opportunities and force us to increase our cash
+compensation to employees or grant larger stock awards than we have historically, which could hurt our operating results or reduce
+the percentage ownership of our existing stockholders, or both.
+Legal and Regulatory Risks
+Government Regulation Is Evolving and Unfavorable Changes Could Harm Our Business
+We are subject to general business regulations and laws, as well as regulations and laws specifically governing the internet,
+physical, e-commerce, and omnichannel retail, digital content, web services, electronic devices, advertising, artificial intelligence
+technologies and services, and other products and services that we offer or sell. These regulations and laws cover taxation, privacy,
+data use, data protection, data security, data localization, network security, consumer protection, pricing, content, copyrights,
+distribution, transportation, mobile communications, electronic device certification, electronic waste, energy consumption,
+environmental and climate-related regulation, electronic contracts and other communications, competition, employment, trade and
+protectionist measures, web services, the provision of online payment services, registration, licensing, and information reporting
+requirements, unencumbered internet access to our services or access to our facilities, the design and operation of websites, health,
+safety, and sanitation standards, the characteristics, legality, and quality of products and services, product labeling, the commercial
+operation of unmanned aircraft systems, healthcare, and other matters. It is not clear how
+14
+Table of Contents
+existing laws governing issues such as property ownership, libel, privacy, data use, data protection, data security, data localization,
+network security, and consumer protection apply to aspects of our operations such as the internet, e-commerce, digital content, web
+services, electronic devices, advertising, and artificial intelligence technologies and services. A large number of jurisdictions
+regulate our operations, and the extent, nature, and scope of such regulations is evolving and expanding as the scope of our
+businesses expand. We are regularly subject to formal and informal reviews, investigations, and other proceedings by governments
+and regulatory authorities under existing laws, regulations, or interpretations or pursuing new and novel approaches to regulate our
+operations. For example, we face a number of open investigations based on claims that aspects of our operations infringe
+competition rules, including aspects of Amazon’s operation of its stores including its fulfillment network, Amazon’s acquisitions,
+and certain aspects of AWS’s offering of cloud services. We strongly dispute these claims and intend to defend ourselves vigorously
+in these investigations. Similarly, we face investigations under a growing patchwork of laws and regulations governing the
+collection, use, and disclosure of data, the interpretation of which continues to evolve, leading to uncertainty about how regulators
+will view our privacy practices. In addition, regulators and lawmakers are increasingly focused on controlling additional aspects of
+the operations of technology companies and companies they have characterized to be online “gatekeepers” through the application
+of existing regulations and laws and the adoption of new regulations and laws, which increases our compliance costs and limits the
+operation of our business. Unfavorable regulations, laws, decisions, or interpretations by government or regulatory authorities
+applying those laws and regulations, or inquiries, investigations, or enforcement actions threatened or initiated by them, could
+cause us to incur substantial costs, expose us to unanticipated civil and criminal liability or penalties (including substantial
+monetary fines), diminish the demand for, or availability of, our products and services, increase our cost of doing business, require
+us to change our business practices in a manner materially adverse to our business, damage our reputation, impede our growth, or
+otherwise have a material effect on our operations. The media, political, and regulatory scrutiny we face, which may continue to
+increase, amplifies these risks.
+Claims, Litigation, Government Investigations, and Other Proceedings May Adversely Affect Our Business and Results of
+Operations
+As an innovative company offering a wide range of consumer and business products and services around the world, we are
+regularly subject to actual and threatened claims, litigation, reviews, investigations, and other proceedings, including proceedings
+by governments and regulatory authorities, involving a wide range of issues, including patent and other intellectual property
+matters, taxes, labor and employment (including the characterization of delivery drivers), competition and antitrust, privacy, data
+use, data protection, data security, data localization, network security, consumer protection, commercial disputes, goods and
+services offered by us and by third parties (including artificial intelligence technologies and services), and other matters. The
+number and scale of these proceedings have increased over time as our businesses have expanded in scope and geographic reach, as
+our products, services, and operations have become more complex and available to, and used by, more people, and as governments
+and regulatory authorities seek to regulate us on a pre-emptive basis. For example, we are litigating a number of matters alleging
+price fixing, monopolization, and consumer protection claims, including those brought by state attorneys general and the Federal
+Trade Commission. Any of these types of proceedings can have an adverse effect on us because of legal costs, disruption of our
+operations, diversion of management resources, negative publicity, and other factors. The outcomes of these matters are inherently
+unpredictable and subject to significant uncertainties. Determining legal reserves or possible losses from such matters involves
+judgment and may not reflect the full range of uncertainties and unpredictable outcomes. Until the final resolution of such matters,
+we may be exposed to losses in excess of the amount recorded, and such amounts could be material. Should any of our estimates
+and assumptions change or prove to have been incorrect, it could have a material effect on our business, consolidated financial
+position, results of operations, or cash flows. In addition, it is possible that a resolution of one or more such proceedings, including
+as a result of a settlement, could involve licenses, sanctions, consent decrees, or orders requiring us to make substantial future
+payments, preventing us from offering certain products or services, requiring us to change our business practices in a manner
+materially adverse to our business, requiring development of non-infringing or otherwise altered products or technologies,
+damaging our reputation, or otherwise having a material effect on our operations.
+We Are Subject to Product Liability Claims When People or Property Are Harmed by the Products We Sell or Manufacture
+Some of the products we sell or manufacture expose us to product liability or food safety claims relating to personal injury or
+illness, death, or environmental or property damage, and can require product recalls or other actions. Third parties who sell
+products using our services and stores also expose us to product liability claims. Additionally, under our A-to-z Guarantee, we may
+reimburse customers for certain product liability claims up to certain limits in these situations, and as our third-party seller sales
+grow, the cost of this program will increase and could negatively affect our operating results. Although we maintain liability
+insurance, we cannot be certain that our coverage will be adequate for liabilities actually incurred or that insurance will continue to
+be available to us on economically reasonable terms, or at all. Although we impose contractual terms on sellers that are intended to
+prohibit sales of certain type of products, we may not be able to detect, enforce, or collect sufficient damages for
+15

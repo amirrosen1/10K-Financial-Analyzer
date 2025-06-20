@@ -1,0 +1,68 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+Table of Contents
+PART II
+Item 7
+STATEMENT OF MANAGEMENT’S RESPONSIBILITY FOR FINANCIAL STATEMENTS
+Management is responsible for the preparation of the consolidated financial statements and related information that are
+presented in this report. The consolidated financial statements, which include amounts based on management’s estimates
+and judgments, have been prepared in conformity with accounting principles generally accepted in the United States of
+America.
+The Company designs and maintains accounting and internal control systems to provide reasonable assurance at
+reasonable cost that assets are safeguarded against loss from unauthorized use or disposition, and that the financial
+records are reliable for preparing consolidated financial statements and maintaining accountability for assets. These
+systems are augmented by written policies, an organizational structure providing division of responsibilities, careful
+selection and training of qualified personnel, and a program of internal audits.
+The Company engaged Deloitte & Touche LLP, an independent registered public accounting firm, to audit and render an
+opinion on the consolidated financial statements and internal control over financial reporting in accordance with the
+standards of the Public Company Accounting Oversight Board (United States).
+The Board of Directors, through its Audit Committee, consisting solely of independent directors of the Company, meets
+periodically with management, internal auditors, and our independent registered public accounting firm to ensure that each
+is meeting its responsibilities and to discuss matters concerning internal controls and financial reporting. Deloitte & Touche
+LLP and the internal auditors each have full and free access to the Audit Committee.
+Satya Nadella
+Chief Executive Officer
+Amy E. Hood
+Executive Vice President and Chief Financial Officer
+Frank H. Brod
+Corporate Vice President, Finance and Administration;
+Chief Accounting Officer
+50
+Table of Contents
+PART II
+Item 7A
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+RISKS
+We are exposed to economic risk from foreign currency exchange rates, interest rates, credit risk, equity prices, and
+commodity prices. A portion of these risks is hedged, but they may impact our consolidated financial statements.
+Foreign Currency
+Certain forecasted transactions, assets, and liabilities are exposed to foreign currency risk. We monitor our foreign
+currency exposures daily and use hedges where practicable to offset the risks and maximize the economic effectiveness
+of our foreign currency positions. Principal currencies hedged include the euro, Japanese yen, British pound, and
+Canadian dollar.
+Interest Rate
+Our fixed-income portfolio is diversified across credit sectors and maturities, consisting primarily of investment-grade
+securities. The credit risk and average maturity of the fixed-income portfolio is managed to achieve economic returns that
+correlate to certain global and domestic fixed-income indices. In addition, we use “To Be Announced” forward purchase
+commitments of mortgage-backed assets to gain exposure to agency and mortgage-backed securities.
+Equity
+Our equity portfolio consists of global, developed, and emerging market securities that are subject to market price risk. We
+manage the securities relative to certain global and domestic indices and expect their economic risk and return to correlate
+with these indices.
+Commodity
+We use broad-based commodity exposures to enhance portfolio returns and facilitate portfolio diversification. Our
+investment portfolio has exposure to a variety of commodities, including precious metals, energy, and grain. We manage
+these exposures relative to global commodity indices and expect their economic risk and return to correlate with these
+indices.
+VALUE-AT-RISK
+We use a value-at-risk (“VaR”) model to estimate and quantify our market risks. VaR is the expected loss, for a given
+confidence level, in the fair value of our portfolio due to adverse market movements over a defined time horizon. The VaR
+model is not intended to represent actual losses in fair value, including determinations of other-than-temporary losses in
+fair value in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”), but is used as a
+risk estimation and management tool. The distribution of the potential changes in total market value of all holdings is
+computed based on the historical volatilities and correlations among foreign currency exchange rates, interest rates, equity
+prices, and commodity prices, assuming normal market conditions.
+The VaR is calculated as the total loss that will not be exceeded at the 97.5 percentile confidence level or, alternatively
+stated, the losses could exceed the VaR in 25 out of 1,000 cases. Several risk factors are not captured in the model,
+including liquidity risk, operational risk, and legal risk.
+51

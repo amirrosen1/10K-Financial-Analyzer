@@ -1,0 +1,1 @@
+active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Where applicable, these

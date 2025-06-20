@@ -1,0 +1,46 @@
+Item 9A. Controls and Procedures
+
+Devices and Consumer $ 11,219 $ 10,625 $ 15,682
+Commercial 16,993 16,050 15,064
+Corporate and Other 3,928 4,161 3,684
+Total operating expenses $ 32,140 $ 30,836 $ 34,430
+93
+Table of Contents
+PART II
+Item 8
+Following is operating income (loss) by segment group.
+(In millions)
+Year Ended June 30, 2014 2013 2012
+Devices and Consumer $ 8,714 $ 9,421 $ 6,051
+Commercial 23,467 21,132 19,978
+Corporate and Other (4,422) (3,789) (4,266)
+Total operating income $ 27,759 $ 26,764 $ 21,763
+Corporate and Other operating income includes adjustments to conform our internal accounting policies to U.S. GAAP and
+corporate-level activity not specifically attributed to a segment. Significant internal accounting policies that differ from U.S.
+GAAP relate to revenue recognition, income statement classification, and depreciation.
+Corporate and Other activity was as follows:
+(In millions)
+Year Ended June 30, 2014 2013 2012
+Corporate (a) $ (3,888) $ (4,236) $ (3,671)
+Other (adjustments to U.S. GAAP):
+Revenue reconciling amounts (b) (415) 403 (485)
+Cost of revenue reconciling amounts (79) (31) (97)
+Operating expenses reconciling amounts (40) 75 (13)
+Total Corporate and Other $ (4,422) $ (3,789) $ (4,266)
+(a) Corporate is presented on the basis of our internal accounting policies and excludes the adjustments to U.S. GAAP
+that are presented separately in those line items.
+(b) Revenue reconciling amounts for fiscal year 2014 included a net $349 million of revenue deferrals related to sales of
+certain devices bundled with other products and services (“Bundled Offerings”). Revenue reconciling amounts for
+fiscal years 2012 and 2013 included the deferral and subsequent recognition, respectively, of $540 million of revenue
+related to the Windows Upgrade Offer.
+No sales to an individual customer or country other than the United States accounted for more than 10% of fiscal year
+2014, 2013, or 2012 revenue. Revenue, classified by the major geographic areas in which our customers are located, was
+as follows:
+(In millions)
+Year Ended June 30, 2014 2013 2012
+United States (a) $ 43,474 $ 41,344 $ 38,846
+Other countries 43,359 36,505 34,877
+Total $ 86,833 $ 77,849 $ 73,723
+(a) Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the
+impracticability of determining the geographic source of the revenue.
+94

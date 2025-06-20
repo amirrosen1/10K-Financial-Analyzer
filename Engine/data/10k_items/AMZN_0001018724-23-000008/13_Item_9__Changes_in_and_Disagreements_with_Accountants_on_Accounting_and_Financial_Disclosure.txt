@@ -1,0 +1,49 @@
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Table of Contents
+We recorded a provision for income taxes in 2023 as compared to an income tax benefit in 2022 primarily due to an increase
+in pretax income, a decrease in the tax impact of foreign earnings and losses driven by a decline in the favorable effects of
+corporate restructuring transactions, and an increase in tax shortfalls from stock-based compensation. This was partially offset by
+an increase in federal research and development credits, which included approximately $600 million of tax benefit recorded in 2023
+related to a change in the estimated qualifying expenditures associated with our 2022 U.S. federal R&D credit.
+We intend to invest substantially all of our foreign subsidiary earnings, as well as our capital in our foreign subsidiaries,
+indefinitely outside of the U.S. in those jurisdictions in which we would incur significant, additional costs upon repatriation of such
+amounts.
+Deferred income tax assets and liabilities are as follows (in millions):
+December 31,
+2022 2023
+Deferred tax assets (1):
+Loss carryforwards U.S. - Federal/States 386 610
+Loss carryforwards - Foreign 2,831 2,796
+Accrued liabilities, reserves, and other expenses 3,280 3,751
+Stock-based compensation 4,295 5,279
+Depreciation and amortization 1,009 1,114
+Operating lease liabilities 18,285 19,922
+Capitalized research and development 6,824 14,800
+Other items 1,023 745
+Tax credits 950 1,582
+Total gross deferred tax assets 38,883 50,599
+Less valuation allowances (2) (4,374) (4,811)
+Deferred tax assets, net of valuation allowances 34,509 45,788
+Deferred tax liabilities:
+Depreciation and amortization (9,039) (12,454)
+Operating lease assets (17,140) (18,648)
+Other items (817) (1,489)
+Net deferred tax assets (liabilities), net of valuation allowances $ 7,513 $ 13,197
+___________________
+(1) Deferred tax assets are presented after tax effects and net of tax contingencies.
+(2) Relates primarily to deferred tax assets that would only be realizable upon the generation of net income in certain foreign
+taxing jurisdictions or future capital gains, as well as tax credits.
+Our valuation allowances primarily relate to foreign deferred tax assets, including substantially all of our foreign net
+operating loss carryforwards as of December 31, 2023. Our foreign net operating loss carryforwards for income tax purposes as of
+December 31, 2023 were approximately $10.2 billion before tax effects and certain of these amounts are subject to annual
+limitations under applicable tax law. If not utilized, a portion of these losses will begin to expire in 2024.
+Income Tax Contingencies
+We are subject to income taxes in the U.S. (federal and state) and numerous foreign jurisdictions. Significant judgment is
+required in evaluating our tax positions and determining our provision for income taxes. During the ordinary course of business,
+there are many transactions and calculations for which the ultimate tax determination is uncertain. We establish reserves for tax-
+related uncertainties based on estimates of whether, and the extent to which, additional taxes will be due. These reserves are
+established when we believe that certain positions might be challenged despite our belief that our tax return positions are fully
+supportable. We adjust these reserves in light of changing facts and circumstances, such as the outcome of tax audits. The provision
+for income taxes includes the impact of reserve provisions and changes to reserves that are considered appropriate.
+66

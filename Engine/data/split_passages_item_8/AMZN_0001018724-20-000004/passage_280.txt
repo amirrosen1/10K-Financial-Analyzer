@@ -1,0 +1,1 @@
+the Eastern District of Texas. The complaint alleges that Elastic Compute Cloud, Virtual Private Cloud, Elastic Load Balancing, Auto-Scaling, and Elastic Beanstalk infringe U.S. Patent No. 6,484,257, entitled “System and Method for Maintaining N Number of Simultaneous Cryptographic Sessions Using

@@ -1,0 +1,48 @@
+Item 10. Directors, Executive Officers, and Corporate Governance
+
+PART II
+Item 8
+• Gaming, including Xbox hardware and Xbox content and services, comprising first- and third-
+party content (including games and in-game content), Xbox Game Pass and other
+subscriptions, Xbox Cloud Gaming, advertising, third-party disc royalties, and other cloud
+services.
+• Search and news advertising, comprising Bing (including Bing Chat), Microsoft News, Microsoft
+Edge, and third-party affiliates.
+Revenue and costs are generally directly attributed to our segments. However, due to the integrated
+structure of our business, certain revenue recognized and costs incurred by one segment may benefit
+other segments. Revenue from certain contracts is allocated among the segments based on the relative
+value of the underlying products and services, which can include allocation based on actual prices
+charged, prices when sold separately, or estimated costs plus a profit margin. Cost of revenue is
+allocated in certain cases based on a relative revenue methodology. Operating expenses that are
+allocated primarily include those relating to marketing of products and services from which multiple
+segments benefit and are generally allocated based on relative gross margin.
+In addition, certain costs are incurred at a corporate level and allocated to our segments. These
+allocated costs generally include legal, including settlements and fines, information technology, human
+resources, finance, excise taxes, field selling, shared facilities services, customer service and support,
+and severance incurred as part of a corporate program. Each allocation is measured differently based on
+the specific facts and circumstances of the costs being allocated and is generally based on relative gross
+margin or relative headcount.
+Segment revenue and operating income were as follows during the periods presented:
+(In millions)
+Year Ended June 30, 2023 2022 2021
+Revenue
+Productivity and Business Processes $ 69,274 $ 63,364 $ 53,915
+Intelligent Cloud 87,907 74,965 59,728
+More Personal Computing 54,734 59,941 54,445
+Total $211,915 $ 198,270 $ 168,088
+Operating Income
+Productivity and Business Processes $ 34,189 $ 29,690 $ 24,351
+Intelligent Cloud 37,884 33,203 26,471
+More Personal Computing 16,450 20,490 19,094
+Total $ 88,523 $ 83,383 $ 69,916
+No sales to an individual customer or country other than the United States accounted for more than 10%
+of revenue for fiscal years 2023, 2022, or 2021. Revenue, classified by the major geographic areas in
+which our customers were located, was as follows:
+(In millions)
+Year Ended June 30, 2023 2022 2021
+United States (a) $106,744 $ 100,218 $ 83,953
+Other countries 105,171 98,052 84,135
+Total $211,915 $ 198,270 $ 168,088
+(a) Includes billings to OEMs and certain multinational organizations because of the nature of these
+businesses and the impracticability of determining the geographic source of the revenue.
+94

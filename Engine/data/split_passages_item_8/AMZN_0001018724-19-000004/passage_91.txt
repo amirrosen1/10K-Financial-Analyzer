@@ -1,0 +1,1 @@
+reaching minimum purchase thresholds. We evaluate the likelihood of reaching purchase thresholds using past experience and current year forecasts. When volume rebates can be reasonably estimated, we record a portion of the rebate as we make progress towards the purchase

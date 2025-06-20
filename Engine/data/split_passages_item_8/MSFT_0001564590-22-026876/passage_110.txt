@@ -1,0 +1,1 @@
+inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs are observable

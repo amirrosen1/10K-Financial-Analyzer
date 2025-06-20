@@ -1,0 +1,1 @@
+0 $ (130) $ 0 $ (78) Hedged items 0 3 0 130 0 78 Excluded from effectiveness assessment 0 139 0 168 0 103 Interest rate contracts Derivatives 0 93 0 0 0 0 Hedged items 0 (93) 0

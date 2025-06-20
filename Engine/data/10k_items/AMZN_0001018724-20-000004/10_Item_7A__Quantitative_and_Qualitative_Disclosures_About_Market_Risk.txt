@@ -1,0 +1,81 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+Table of Contents
+Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing
+Obligations
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is
+free cash flow reduced by equipment acquired under finance leases, which is included in “Property and equipment acquired under
+finance leases,” principal repayments of all other finance lease liabilities, which is included in “Principal repayments of finance
+leases,” and “Principal repayments of financing obligations.” All other finance lease liabilities and financing obligations consists of
+property. In this measure, equipment acquired under finance leases is reflected as if these assets had been purchased with cash,
+which is not the case as these assets have been leased. The following is a reconciliation of free cash flow less equipment finance
+leases and principal repayments of all other finance leases and financing obligations to the most comparable GAAP cash flow
+measure, “Net cash provided by (used in) operating activities,” for 2019 and 2020 (in millions):
+Year Ended December 31,
+2019 2020
+Net cash provided by (used in) operating activities $ 38,514 $ 66,064
+Purchases of property and equipment, net of proceeds from sales and incentives (12,689) (35,044)
+Free cash flow 25,825 31,020
+Equipment acquired under finance leases (1) (12,916) (9,104)
+Principal repayments of all other finance leases (2) (392) (427)
+Principal repayments of financing obligations (27) (53)
+Free cash flow less equipment finance leases and principal repayments of all other finance leases
+and financing obligations $ 12,490 $ 21,436
+Net cash provided by (used in) investing activities $ (24,281) $ (59,611)
+Net cash provided by (used in) financing activities $ (10,066) $ (1,104)
+___________________
+(1) For the year ended December 31, 2019 and 2020, this amount relates to equipment included in “Property and equipment
+acquired under finance leases” of $13,723 million and $11,588 million.
+(2) For the year ended December 31, 2019 and 2020, this amount relates to property included in “Principal repayments of finance
+leases” of $9,628 million and $10,642 million.
+All of these free cash flows measures have limitations as they omit certain components of the overall cash flow statement and
+do not represent the residual cash flow available for discretionary expenditures. For example, these measures of free cash flows do
+not incorporate the portion of payments representing principal reductions of debt or cash payments for business acquisitions.
+Additionally, our mix of property and equipment acquisitions with cash or other financing options may change over time.
+Therefore, we believe it is important to view free cash flows measures only as a complement to our entire consolidated statements
+of cash flows.
+31
+Table of Contents
+Effect of Foreign Exchange Rates
+Information regarding the effect of foreign exchange rates, versus the U.S. Dollar, on our net sales, operating expenses, and
+operating income is provided to show reported period operating results had the foreign exchange rates remained the same as those
+in effect in the comparable prior year periods. The effect on our net sales, operating expenses, and operating income from changes
+in our foreign exchange rates versus the U.S. Dollar is as follows (in millions):
+Year Ended December 31, 2019 Year Ended December 31, 2020
+Exchange At Prior Exchange At Prior
+As Rate Year As Rate Year
+Reported Effect (1) Rates (2) Reported Effect (1) Rates (2)
+Net sales $ 280,522 $ 2,560 $283,082 $ 386,064 $ (1,438) $ 384,626
+Operating expenses 265,981 2,740 268,721 363,165 (989) 362,176
+Operating income 14,541 (180) 14,361 22,899 (449) 22,450
+___________________
+(1) Represents the change in reported amounts resulting from changes in foreign exchange rates from those in effect in the
+comparable prior year period for operating results.
+(2) Represents the outcome that would have resulted had foreign exchange rates in the reported period been the same as those in
+effect in the comparable prior year period for operating results.
+Guidance
+We provided guidance on February 2, 2021, in our earnings release furnished on Form 8-K as set forth below. These forward-
+looking statements reflect Amazon.com’s expectations as of February 2, 2021, and are subject to substantial uncertainty. Our results
+are inherently unpredictable and may be materially affected by many factors, such as fluctuations in foreign exchange rates,
+changes in global economic conditions and customer spending, world events, the rate of growth of the Internet, online commerce,
+and cloud services, as well as those outlined in Item 1A of Part I, “Risk Factors.” This guidance reflects our estimates as of
+February 2, 2021 regarding the impact of the COVID-19 pandemic on our operations, including those discussed above, and is
+highly dependent on numerous factors that we may not be able to predict or control, including: the duration and scope of the
+pandemic, including any recurrence; actions taken by governments, businesses, and individuals in response to the pandemic; the
+impact of the pandemic on global and regional economies and economic activity, workforce staffing and productivity, and our
+significant and continuing spending on employee safety measures; our ability to continue operations in affected areas; and
+consumer demand and spending patterns, as well as the effects on suppliers, creditors, and third-party sellers, all of which are
+uncertain. This guidance also assumes the impacts on consumer demand and spending patterns, including impacts due to concerns
+over the current economic outlook, will be in line with those experienced during the first quarter of 2021 to date, and the additional
+assumptions set forth below. However, it is not possible to determine the ultimate impact on our operations for the first quarter of
+2021, or whether other currently unanticipated direct or indirect consequences of the pandemic are reasonably likely to materially
+affect our operations.
+First Quarter 2021 Guidance
+• Net sales are expected to be between $100.0 billion and $106.0 billion, or to grow between 33% and 40% compared with
+first quarter 2020. This guidance anticipates a favorable impact of approximately 300 basis points from foreign exchange
+rates.
+• Operating income is expected to be between $3.0 billion and $6.5 billion, compared with $4.0 billion in first quarter 2020.
+This guidance assumes approximately $2.0 billion of costs related to COVID-19.
+• This guidance assumes, among other things, that no additional business acquisitions, investments, restructurings, or legal
+settlements are concluded.
+32

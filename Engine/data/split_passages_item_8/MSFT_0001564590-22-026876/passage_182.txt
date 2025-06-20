@@ -1,0 +1,1 @@
+contracts 3 0 40 0 Not Designated as Hedging Instruments Foreign exchange contracts 333 (362) 227 (291) Other contracts 20 (112) 56 (36) Gross amounts of derivatives 356 (551) 399 (335) Gross amounts of derivatives offset in the balance sheet

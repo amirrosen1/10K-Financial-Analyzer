@@ -1,0 +1,75 @@
+Item 16. Form 10-K Summary
+
+PART IV
+Item 15
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+32.2** Certification of Chief Financial Officer X
+Pursuant to Section 906 of the Sarbanes-
+Oxley Act of 2002
+101.INS Inline XBRL Instance Document—the instance X
+document does not appear in the Interactive
+Data File as its XBRL tags are embedded
+within the Inline XBRL document
+101.SCH Inline XBRL Taxonomy Extension Schema X
+101.CAL Inline XBRL Taxonomy Extension Calculation X
+Linkbase
+101.DEF Inline XBRL Taxonomy Extension Definition X
+Linkbase
+101.LAB Inline XBRL Taxonomy Extension Label X
+Linkbase
+101.PRE Inline XBRL Taxonomy Extension Presentation X
+Linkbase
+104 Cover page formatted as Inline XBRL and X
+contained in Exhibit 101
+* Indicates a management contract or compensatory plan or arrangement.
+** Furnished, not filed.
+107
+PART IV
+Item 16
+ITEM 16. FORM 10-K SUMMARY
+None.
+108
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this
+report to be signed on its behalf by the undersigned; thereunto duly authorized, in the City of Redmond, State of Washington, on
+July 28, 2022.
+MICROSOFT CORPORATION
+/s/ ALICE L. JOLLA
+Alice L. Jolla
+Corporate Vice President and Chief Accounting Officer (Principal
+Accounting Officer)
+109
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons
+on behalf of Registrant and in the capacities indicated on July 28, 2022.
+Signature Title
+/s/ SATYA NADELLA Chairman and Chief Executive Officer (Principal Executive
+Satya Nadella Officer)
+/s/ REID HOFFMAN Director
+Reid Hoffman
+/s/ HUGH F. JOHNSTON Director
+Hugh F. Johnston
+/s/ TERI L. LIST Director
+Teri L. List
+/s/ SANDRA E. PETERSON Director
+Sandra E. Peterson
+/s/ PENNY S. PRITZKER Director
+Penny S. Pritzker
+/s/ CARLOS A. RODRIGUEZ Director
+Carlos A. Rodriguez
+/s/ CHARLES W. SCHARF Director
+Charles W. Scharf
+/s/ JOHN W. STANTON Director
+John W. Stanton
+/s/ JOHN W. THOMPSON Lead Independent Director
+John W. Thompson
+/s/ EMMA N. WALMSLEY Director
+Emma N. Walmsley
+/s/ PADMASREE WARRIOR Director
+Padmasree Warrior
+/s/ AMY E. HOOD Executive Vice President and Chief Financial Officer
+Amy E. Hood (Principal Financial Officer)
+/s/ ALICE L. JOLLA Corporate Vice President and Chief Accounting Officer (Principal
+Alice L. Jolla Accounting Officer)
+110

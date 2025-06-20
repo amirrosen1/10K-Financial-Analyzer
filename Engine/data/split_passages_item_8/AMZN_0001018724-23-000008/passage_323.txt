@@ -1,0 +1,1 @@
+for the Northern District of Illinois. The complaint alleges, among other things, that Amazon S3 and DynamoDB infringe U.S. Patent Nos. 7,814,170 and 7,103,640, each entitled “Network Distributed Tracking Wire Transfer Protocol”; and 7,233,978, entitled “Method and Apparatus for Managing

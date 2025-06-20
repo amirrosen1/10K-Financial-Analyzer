@@ -1,0 +1,145 @@
+Item 16. Form 10-K Summary
+
+PART IV
+Item 15
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+4.15 Twelfth Supplemental Indenture for 1.850% 8-K 4.1 2/3/17
+Notes due 2020, 2.400% Notes due 2022,
+2.875% Notes due 2024, 3.300% Notes
+due 2027, 4.100% Notes due 2037, 4.250%
+Notes due 2047, and 4.500% Notes due
+2057, dated as of February 6, 2017,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as trustee, to the Indenture, dated as
+of May 18, 2009, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as trustee
+4.16 Description of Securities X
+10.1* Microsoft Corporation 2001 Stock Plan 10-Q 9/30/16 10.1 10/20/16
+10.4* Microsoft Corporation Employee Stock 10-K 6/30/12 10.4 7/26/12
+Purchase Plan
+10.5* Microsoft Corporation Deferred 10-K 6/30/18 10.5 8/3/18
+Compensation Plan
+10.6* Microsoft Corporation 2017 Stock Plan DEF14A Annex C 10/16/17
+10.7* Form of Stock Award Agreement Under the 10-Q 3/31/2018 10.26 4/26/18
+Microsoft Corporation 2017 Stock Plan
+10.8* Form of Performance Stock Award 10-Q 3/31/2018 10.27 4/26/18
+Agreement Under the Microsoft
+Corporation 2017 Stock Plan
+10.12 Amended and Restated Officers’ 10-Q 9/30/16 10.12 10/20/16
+Indemnification Trust Agreement between
+Microsoft Corporation and The Bank of New
+York Mellon Trust Company, N.A., as
+trustee
+10.13 Form of Indemnification Agreement and X
+Amended and Restated Directors’
+Indemnification Trust Agreement between
+Microsoft Corporation and The Bank of
+New York Mellon Trust Company, N.A., as
+trustee
+10.14* Microsoft Corporation Deferred 10-Q 12/31/17 10.14 1/31/18
+Compensation Plan for Non-Employee
+Directors
+10.15* Microsoft Corporation Executive Incentive 8-K 10.1 9/19/18
+Plan
+10.19* Microsoft Corporation Executive Incentive 10-Q 9/30/16 10.17 10/20/16
+Plan
+10.20* Form of Executive Incentive Plan 10-Q 9/30/16 10.18 10/20/16
+(Executive Officer SAs) Stock Award
+Agreement under the Microsoft
+Corporation 2001 Stock Plan
+102
+PART IV
+Item 15
+10.21* Form of Executive Incentive Plan 10-Q 9/30/16 10.25 10/20/16
+Performance Stock Award Agreement under
+the Microsoft Corporation 2001 Stock Plan
+10.22* Senior Executive Severance Benefit Plan 10-Q 9/30/16 10.22 10/20/16
+10.23* Offer Letter, dated February 3, 2014, 8-K 10.1 2/4/14
+between Microsoft Corporation and Satya
+Nadella
+10.24* Long-Term Performance Stock Award 10-Q 12/31/14 10.24 1/26/15
+Agreement between Microsoft Corporation
+and Satya Nadella
+21 Subsidiaries of Registrant X
+23.1 Consent of Independent Registered Public X
+Accounting Firm
+31.1 Certifications of Chief Executive Officer X
+Pursuant to Section 302 of the Sarbanes-
+Oxley Act of 2002
+31.2 Certifications of Chief Financial Officer X
+Pursuant to Section 302 of the Sarbanes-
+Oxley Act of 2002
+32.1** Certifications of Chief Executive Officer X
+Pursuant to Section 906 of the Sarbanes-
+Oxley Act of 2002
+32.2** Certifications of Chief Financial Officer X
+Pursuant to Section 906 of the Sarbanes-
+Oxley Act of 2002
+101.INS XBRL Instance Document X
+101.SCH XBRL Taxonomy Extension Schema X
+101.CAL XBRL Taxonomy Extension Calculation X
+Linkbase
+101.DEF XBRL Taxonomy Extension Definition X
+Linkbase
+101.LAB XBRL Taxonomy Extension Label Linkbase X
+101.PRE XBRL Taxonomy Extension Presentation X
+Linkbase
+* Indicates a management contract or compensatory plan or arrangement.
+** Furnished, not filed.
+103
+PART IV
+Item 15
+ITEM 16. FORM 10-K SUMMARY
+None.
+104
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned; thereunto duly authorized, in the City of Redmond,
+State of Washington, on August 1, 2019.
+MICROSOFT CORPORATION
+/S/ FRANK H. BROD
+Frank H. Brod
+Corporate Vice President, Finance and Administration;
+Chief Accounting Officer (Principal Accounting Officer)
+105
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the
+following persons on behalf of Registrant and in the capacities indicated on August 1, 2019.
+Signature Title
+/s/ JOHN W. THOMPSON Chairman
+John W. Thompson
+/s/ SATYA NADELLA Director and Chief Executive Officer
+Satya Nadella
+/s/ WILLIAM H. GATES III Director
+William H. Gates III
+/s/ REID HOFFMAN Director
+Reid Hoffman
+/s/ HUGH F. JOHNSTON Director
+Hugh F. Johnston
+/s/ TERI L. LIST-STOLL Director
+Teri L. List-Stoll
+/s/ CHARLES H. NOSKI Director
+Charles H. Noski
+/s/ HELMUT PANKE Director
+Helmut Panke
+/s/ SANDRA E. PETERSON Director
+Sandra E. Peterson
+/s/ PENNY S. PRITZKER Director
+Penny S. Pritzker
+/s/ CHARLES W. SCHARF Director
+Charles W. Scharf
+/s/ ARNE M. SORENSON Director
+Arne M. Sorenson
+/s/ JOHN W. STANTON Director
+John W. Stanton
+/s/ PADMASREE WARRIOR Director
+Padmasree Warrior
+/s/ AMY E. HOOD Executive Vice President and Chief Financial Officer
+Amy E. Hood (Principal Financial Officer)
+/s/ FRANK H. BROD Corporate Vice President, Finance and Administration;
+Frank H. Brod Chief Accounting Officer
+(Principal Accounting Officer)
+106

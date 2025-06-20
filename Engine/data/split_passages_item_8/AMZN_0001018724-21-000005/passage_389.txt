@@ -1,0 +1,1 @@
+infrastructure assets are allocated among the segments based on usage, with the majority allocated to the AWS segment. Total segment assets reconciled to consolidated amounts are as follows (in millions): December 31, 2019 2020 2021 North America (1) $ 72,277

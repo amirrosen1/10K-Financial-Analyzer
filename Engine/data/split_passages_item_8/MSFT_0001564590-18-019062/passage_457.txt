@@ -1,0 +1,1 @@
+and cloud services that can power modern business. This segment primarily comprises: • Server products and cloud services, including Microsoft SQL Server, Windows Server, Visual Studio, System Center, and related CALs, and Azure. • Enterprise Services, including Premier Support Services

@@ -1,0 +1,1 @@
+0 1,000 0 1,000 0 1,000 U.S. government and agency securities 86,492 3,707 0 90,199 0 90,199 Foreign government bonds 10 5,705 0 5,715 0 5,715 Mortgage- and asset-backed securities 0 4,803 0 4,803 0 4,803 Corporate notes and bonds

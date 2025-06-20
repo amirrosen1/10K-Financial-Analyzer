@@ -1,0 +1,47 @@
+Item 3. Legal Proceedings
+
+Table of Contents
+PART I
+Item 1A, 1B, 2
+Silicon Valley area of California, both of which are seismically active regions. A catastrophic event that results in the
+destruction or disruption of any of our critical business or IT systems could harm our ability to conduct normal business
+operations. Providing our customers with more services and solutions in the cloud puts a premium on the resilience of our
+systems and strength of our business continuity management plans, and magnifies the potential impact of prolonged
+service outages on our operating results.
+Abrupt political change, terrorist activity, and armed conflict pose a risk of general economic disruption in affected
+countries, which may increase our operating costs. These conditions also may add uncertainty to the timing and budget for
+technology investment decisions by our customers, and may cause supply chain disruptions for hardware manufacturers,
+either of which may adversely affect our revenue. The long-term effects of climate change on the global economy or the IT
+industry in particular are unclear. Environmental regulations or changes in the supply, demand or available sources of
+energy or other natural resources may affect the availability or cost of goods and services, including natural resources,
+necessary to run our business. Changes in weather where we operate may increase the costs of powering and cooling
+computer hardware we use to develop software and provide cloud-based services.
+Adverse economic or market conditions may harm our business. Worsening economic conditions, including
+inflation, recession, or other changes in economic conditions, may cause lower IT spending and adversely affect our
+revenue. If demand for PCs, servers, and other computing devices declines, or consumer or business spending for those
+products declines, our revenue will be adversely affected. Substantial revenue comes from our U.S. government contracts.
+An extended federal government shutdown resulting from failing to pass budget appropriations, adopt continuing funding
+resolutions or raise the debt ceiling, and other budgetary decisions limiting or delaying federal government spending, could
+reduce government IT spending on our products and services and adversely affect our revenue.
+Our product distribution system relies on an extensive partner and retail network. OEMs building devices that run our
+software have also been a significant means of distribution. The impact of economic conditions on our partners, such as
+the bankruptcy of a major distributor, OEM, or retailer, could cause sales channel disruption.
+Challenging economic conditions also may impair the ability of our customers to pay for products and services they have
+purchased. As a result, allowances for doubtful accounts and write-offs of accounts receivable may increase.
+We maintain an investment portfolio of various holdings, types, and maturities. These investments are subject to general
+credit, liquidity, market, and interest rate risks, which may be exacerbated by unusual events that affect global financial
+markets. A significant part of our investment portfolio comprises U.S. government securities. If global credit and equity
+markets decline for long periods, or if there is a downgrade of the U.S. government credit rating due to an actual or
+threatened default on government debt, our investment portfolio may be adversely affected and we could determine that
+more of our investments have experienced an other-than-temporary decline in fair value, requiring impairment charges
+that could adversely affect our financial results.
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+We have received no written comments regarding our periodic or current reports from the staff of the SEC that were
+issued 180 days or more preceding the end of our fiscal year 2015 that remain unresolved.
+ITEM 2. PROPERTIES
+Our corporate offices consist of approximately 15 million square feet of office space located in King County, Washington:
+10 million square feet of owned space situated on approximately 500 acres of land we own at our corporate campus in
+Redmond, Washington and approximately five million square feet of space we lease. We own approximately five million
+additional square feet of office and data center space domestically (outside of the Puget Sound corporate campus) and
+lease many sites domestically totaling approximately five million square feet of office and data center space.
+26

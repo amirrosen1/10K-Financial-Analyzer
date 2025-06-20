@@ -1,0 +1,87 @@
+Item 15. Exhibits, Financial Statement Schedules
+
+Table of Contents
+Note 10 — SEGMENT INFORMATION
+We have organized our operations into three segments: North America, International, and AWS. We allocate to segment
+results the operating expenses “Fulfillment,” “Technology and content,” “Sales and marketing,” and “General and administrative”
+based on usage, which is generally reflected in the segment in which the costs are incurred. The majority of technology
+infrastructure costs are allocated to the AWS segment based on usage. The majority of the remaining non-infrastructure technology
+costs are incurred in the U.S. and are allocated to our North America segment. There are no internal revenue transactions between
+our reportable segments. These segments reflect the way our chief operating decision maker evaluates the Company’s business
+performance and manages its operations.
+North America
+The North America segment primarily consists of amounts earned from retail sales of consumer products (including from
+sellers) and subscriptions through North America-focused online and physical stores. This segment includes export sales from these
+online stores.
+International
+The International segment primarily consists of amounts earned from retail sales of consumer products (including from
+sellers) and subscriptions through internationally-focused online stores. This segment includes export sales from these
+internationally-focused online stores (including export sales from these online stores to customers in the U.S., Mexico, and
+Canada), but excludes export sales from our North America-focused online stores.
+AWS
+The AWS segment consists of amounts earned from global sales of compute, storage, database, and other services for start-
+ups, enterprises, government agencies, and academic institutions.
+Information on reportable segments and reconciliation to consolidated net income (loss) is as follows (in millions):
+Year Ended December 31,
+2020 2021 2022
+North America
+Net sales $ 236,282 $ 279,833 $ 315,880
+Operating expenses 227,631 272,562 318,727
+Operating income (loss) $ 8,651 $ 7,271 $ (2,847)
+International
+Net sales $ 104,412 $ 127,787 $ 118,007
+Operating expenses 103,695 128,711 125,753
+Operating income (loss) $ 717 $ (924) $ (7,746)
+AWS
+Net sales $ 45,370 $ 62,202 $ 80,096
+Operating expenses 31,839 43,670 57,255
+Operating income $ 13,531 $ 18,532 $ 22,841
+Consolidated
+Net sales $ 386,064 $ 469,822 $ 513,983
+Operating expenses 363,165 444,943 501,735
+Operating income 22,899 24,879 12,248
+Total non-operating income (expense) 1,279 13,272 (18,184)
+Benefit (provision) for income taxes (2,863) (4,791) 3,217
+Equity-method investment activity, net of tax 16 4 (3)
+Net income (loss) $ 21,331 $ 33,364 $ (2,722)
+66
+Table of Contents
+Net sales by groups of similar products and services, which also have similar economic characteristics, is as follows (in
+millions):
+Year Ended December 31,
+2020 2021 2022
+Net Sales:
+Online stores (1) $ 197,346 $ 222,075 $ 220,004
+Physical stores (2) 16,227 17,075 18,963
+Third-party seller services (3) 80,461 103,366 117,716
+Subscription services (4) 25,207 31,768 35,218
+Advertising services (5) 19,773 31,160 37,739
+AWS 45,370 62,202 80,096
+Other (6) 1,680 2,176 4,247
+Consolidated $ 386,064 $ 469,822 $ 513,983
+___________________
+(1) Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a
+wide selection of consumable and durable goods that includes media products available in both a physical and digital format,
+such as books, videos, games, music, and software. These product sales include digital products sold on a transactional basis.
+Digital product subscriptions that provide unlimited viewing or usage rights are included in “Subscription services.”
+(2) Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for
+delivery or pickup at our physical stores are included in “Online stores.”
+(3) Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+(4) Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital
+music, e-book, and other non-AWS subscription services.
+(5) Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored
+ads, display, and video advertising.
+(6) Includes sales related to various other offerings, such as certain licensing and distribution of video content and shipping
+services, and our co-branded credit card agreements.
+Net sales are attributed to countries primarily based on country-focused online and physical stores or, for AWS purposes, the
+selling entity. Net sales attributed to countries that represent a significant portion of consolidated net sales are as follows (in
+millions):
+Year Ended December 31,
+2020 2021 2022
+United States $ 263,520 $ 314,006 $ 356,113
+Germany 29,565 37,326 33,598
+United Kingdom 26,483 31,914 30,074
+Japan 20,461 23,071 24,396
+Rest of world 46,035 63,505 69,802
+Consolidated $ 386,064 $ 469,822 $ 513,983
+67

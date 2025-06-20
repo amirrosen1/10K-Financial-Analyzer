@@ -1,0 +1,197 @@
+Item 15. Exhibits, Financial Statement Schedules
+
+PART II, III
+Item 9B, 10, 11, 12, 13, 14
+ITEM 9B. OTHER INFORMATION
+During the quarter ended December 31, 2017, Microsoft provided software services to a person or entity identified
+under section 560.304 of title 31, Code of Federal Regulations. The services constituted a cloud-based spam and
+malware filtering service and the cloud-based provision of Office 365 software services provided to two entities
+associated with the Iranian bank, Bank Sepah – Bank Sepah International PLC and Banque Sepah, respectively. For
+the former, an annual service fee equivalent to $600 was charged for a one-year period beginning in February 2017,
+and for the latter, use rights were charged at a price equivalent to approximately $55 per month from September 2016
+through November 2017, totaling $770. It is not possible to determine the precise profits, if any, attributable to these
+activities, though they are less than the associated revenues. Microsoft has ceased providing these software services
+to these entities and has no intention of doing so in the future.
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+A list of our executive officers and biographical information appears in Part I, Item 1 of this Form 10-K. Information
+about our directors may be found under the caption “Our director nominees” in our Proxy Statement for the Annual
+Meeting of Shareholders to be held November 28, 2018 (the “Proxy Statement”). Information about our Audit
+Committee may be found under the caption “Board committees” in the Proxy Statement. That information is
+incorporated herein by reference.
+The information in the Proxy Statement set forth under the caption “Section 16(a) beneficial ownership reporting
+compliance” is incorporated herein by reference.
+We have adopted the Microsoft Finance Code of Professional Conduct (the “finance code of ethics”), a code of ethics
+that applies to our Chief Executive Officer, Chief Financial Officer, Chief Accounting Officer, and other finance
+organization employees. The finance code of ethics is publicly available on our website at
+https://aka.ms/FinanceCodeProfessionalConduct. If we make any substantive amendments to the finance code of
+ethics or grant any waiver, including any implicit waiver, from a provision of the code to our Chief Executive Officer,
+Chief Financial Officer, or Chief Accounting Officer, we will disclose the nature of the amendment or waiver on that
+website or in a report on Form 8-K.
+ITEM 11. EXECUTIVE COMPENSATION
+The information in the Proxy Statement set forth under the captions “Director compensation,” “Named executive officer
+compensation,” “Compensation Committee interlocks and insider participation,” and “Compensation Committee report”
+is incorporated herein by reference.
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+AND RELATED STOCKHOLDER MATTERS
+The information in the Proxy Statement set forth under the captions “Stock ownership information,” “Principal
+shareholders” and “Equity compensation plan information” is incorporated herein by reference.
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND
+DIRECTOR INDEPENDENCE
+The information set forth in the Proxy Statement under the captions “Director independence” and “Certain relationships
+and related transactions” is incorporated herein by reference.
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+Information concerning principal accountant fees and services appears in the Proxy Statement under the headings
+“Fees billed by Deloitte & Touche” and “Policy on Audit Committee pre-approval of audit and permissible non-audit
+services of independent auditor” and is incorporated herein by reference.
+100
+PART IV
+Item 15
+PART IV
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+(a) Financial Statements and Schedules
+The financial statements are set forth under Item 8 of this Form 10-K, as indexed below. Financial statement schedules
+have been omitted since they either are not required, not applicable, or the information is otherwise included.
+Index to Financial Statements Page
+Income Statements 51
+Comprehensive Income Statements 52
+Balance Sheets 53
+Cash Flows Statements 54
+Stockholders’ Equity Statements 55
+Notes to Financial Statements 56
+Report of Independent Registered Public Accounting Firm 97
+(b) Exhibit Listing
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+3.1 Amended and Restated Articles of 8-K 3.1 12/1/16
+Incorporation of Microsoft Corporation
+3.2 Bylaws of Microsoft Corporation 8-K 3.2 6/14/17
+4.1 Form of Indenture between Microsoft S-3ASR 4.1 11/20/08
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee
+(“Base Indenture”)
+4.2 Form of First Supplemental Indenture for 8-K 4.2 5/15/09
+2.95% Notes due 2014, 4.20% Notes due
+2019, and 5.20% Notes due 2039, dated as
+of May 18, 2009, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to
+the Base Indenture
+4.5 Form of Second Supplemental Indenture 8-K 4.2 9/27/10
+for 0.875% Notes due 2013, 1.625% Notes
+due 2015, 3.00% Notes due 2020, and
+4.50% Notes due 2040, dated as of
+September 27, 2010, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to
+the Indenture, dated as of May 18, 2009,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee
+101
+PART IV
+Item 15
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+4.6 Third Supplemental Indenture for 2.500% 8-K 4.2 2/8/11
+Notes due 2016, 4.000% Notes due 2021,
+and 5.300% Notes due 2041, dated as of
+February 8, 2011, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to
+the Indenture, dated as of May 18, 2009,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee
+4.7 Fourth Supplemental Indenture for 0.875% 8-K 4.1 11/7/12
+Notes due 2017, 2.125% Notes due 2022,
+and 3.500% Notes due 2042, dated as of
+November 7, 2012, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to
+the Indenture, dated as of May 18, 2009,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee
+4.8 Fifth Supplemental Indenture for 2.625% 8-K 4.1 5/1/13
+Notes due 2033, dated as of May 2, 2013,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee, to the Indenture, dated as
+of May 18, 2009, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee
+4.9 Sixth Supplemental Indenture for 1.000% 8-K 4.2 5/1/13
+Notes due 2018, 2.375% Notes due 2023,
+and 3.750% Notes due 2043, dated as of
+May 2, 2013, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to
+the Indenture, dated as of May 18, 2009,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee
+4.10 Seventh Supplemental Indenture for 8-K 4.1 12/6/13
+2.125% Notes due 2021 and 3.125% Notes
+due 2028, dated as of December 6, 2013,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee, to the Indenture, dated as
+of May 18, 2009, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee
+102
+PART IV
+Item 15
+Incorporated by Reference
+Exhibit Filed Period
+Number Exhibit Description Herewith Form Ending Exhibit Filing Date
+4.11 Eighth Supplemental Indenture for 1.625% 8-K 4.2 12/6/13
+Notes due 2018, 3.625% Notes due 2023,
+and 4.875% Notes due 2043, dated as of
+December 6, 2013, between Microsoft
+Corporation and The Bank of New York
+Mellon Trust Company, N.A., as Trustee, to
+the Indenture, dated as of May 18, 2009,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee
+4.12 Ninth Supplemental Indenture for 1.850% 8-K 4.1 2/12/15
+Notes due 2020, 2.375% Notes due 2022,
+2.700% Notes due 2025, 3.500% Notes
+due 2035, 3.750% Notes due 2045, and
+4.000% Notes due 2055, dated as of
+February 12, 2015, between Microsoft
+Corporation and U.S. Bank National
+Association, as Trustee, to the Indenture,
+dated as of May 18, 2009, between
+Microsoft Corporation and The Bank of New
+York Mellon Trust Company, N.A., as
+Trustee
+4.13 Tenth Supplemental Indenture for 1.300% 8-K 4.1 11/3/15
+Notes due 2018, 2.000% Notes due 2020,
+2.650% Notes due 2022, 3.125% Notes due
+2025, 4.200% Notes due 2035, 4.450%
+Notes due 2045, and 4.750% Notes due
+2055, dated as of November 3, 2015,
+between Microsoft Corporation and U.S.
+Bank National Association, as Trustee, to the
+Indenture, dated as of May 18, 2009,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee
+4.14 Eleventh Supplemental Indenture for 8-K 4.1 8/5/16
+1.100% Notes due 2019, 1.550% Notes due
+2021, 2.000% Notes due 2023, 2.400%
+Notes due 2026, 3.450% Notes due 2036,
+3.700% Notes due 2046, and 3.950% Notes
+due 2056, dated as of August 8, 2016,
+between Microsoft Corporation and U.S.
+Bank, National Association, as trustee, to the
+Indenture, dated as of May 18, 2009,
+between Microsoft Corporation and The
+Bank of New York Mellon Trust Company,
+N.A., as Trustee
+103

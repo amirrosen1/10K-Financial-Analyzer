@@ -1,0 +1,1 @@
+(loss) 21,331 33,364 (2,722) Adjustments to reconcile net income (loss) to net cash from operating activities: Depreciation and amortization of property and equipment and capitalized content costs, operating lease assets, and other 25,180 34,433 41,921 Stock-based compensation 9,208 12,757 19,621

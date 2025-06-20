@@ -1,0 +1,209 @@
+Item 16. Form 10-K Summary
+
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+The Board of Directors and Shareholders
+Amazon.com, Inc.
+Opinion on Internal Control Over Financial Reporting
+We have audited Amazon.com, Inc.’s internal control over financial reporting as of December 31, 2020, based on criteria
+established in Internal Control — Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (2013 framework) (the COSO criteria). In our opinion, Amazon.com, Inc. (the Company) maintained, in all material
+respects, effective internal control over financial reporting as of December 31, 2020, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States)
+(PCAOB), the consolidated balance sheets of the Company as of December 31, 2020 and 2019, and the related consolidated
+statements of operations, comprehensive income, stockholders’ equity, and cash flows for each of the three years in the period
+ended December 31, 2020 and the related notes and our report dated February 2, 2021 expressed an unqualified opinion thereon.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting, and for its
+assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on
+Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over
+financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be
+independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all
+material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material
+weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and
+performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable
+basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that
+(1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of
+the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of
+financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the
+company are being made only in accordance with authorizations of management and directors of the company; and (3) provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s
+assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also,
+projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because
+of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP
+Seattle, Washington
+February 2, 2021
+70
+Table of Contents
+Item 9B. Other Information
+Disclosure Pursuant to Section 13(r) of the Exchange Act
+As previously disclosed, we determined that, between January 2012 and June 2020, we processed and delivered orders of
+consumer products for certain individuals and entities located outside Iran covered by the Iran Threat Reduction and Syria Human
+Rights Act. The information provided pursuant to Section 13(r) of the Exchange Act in Item 5 of Part II of the Company’s
+Quarterly Reports on 10-Q for the quarters ended March 31, 2020 and June 30, 2020 is hereby incorporated by reference to such
+reports.
+PART III
+Item 10. Directors, Executive Officers, and Corporate Governance
+Information regarding our Executive Officers required by Item 10 of Part III is set forth in Item 1 of Part I “Business —
+Information About Our Executive Officers.” Information required by Item 10 of Part III regarding our Directors and any material
+changes to the process by which security holders may recommend nominees to the Board of Directors is included in our Proxy
+Statement relating to our 2021 Annual Meeting of Shareholders, and is incorporated herein by reference. Information relating to our
+Code of Business Conduct and Ethics and, to the extent applicable, compliance with Section 16(a) of the 1934 Act is set forth in
+our Proxy Statement relating to our 2021 Annual Meeting of Shareholders and is incorporated herein by reference. To the extent
+permissible under Nasdaq rules, we intend to disclose amendments to our Code of Business Conduct and Ethics, as well as waivers
+of the provisions thereof, on our investor relations website under the heading “Corporate Governance” at amazon.com/ir.
+Item 11. Executive Compensation
+Information required by Item 11 of Part III is included in our Proxy Statement relating to our 2021 Annual Meeting of
+Shareholders and is incorporated herein by reference.
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters
+Information required by Item 12 of Part III is included in our Proxy Statement relating to our 2021 Annual Meeting of
+Shareholders and is incorporated herein by reference.
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+Information required by Item 13 of Part III is included in our Proxy Statement relating to our 2021 Annual Meeting of
+Shareholders and is incorporated herein by reference.
+Item 14. Principal Accountant Fees and Services
+Information required by Item 14 of Part III is included in our Proxy Statement relating to our 2021 Annual Meeting of
+Shareholders and is incorporated herein by reference.
+71
+Table of Contents
+PART IV
+Item 15. Exhibits, Financial Statement Schedules
+(a) List of Documents Filed as a Part of This Report:
+(1) Index to Consolidated Financial Statements:
+Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
+Consolidated Statements of Cash Flows for each of the three years ended December 31, 2020
+Consolidated Statements of Operations for each of the three years ended December 31, 2020
+Consolidated Statements of Comprehensive Income for each of the three years ended December 31, 2020
+Consolidated Balance Sheets as of December 31, 2019 and 2020
+Consolidated Statements of Stockholders’ Equity for each of the three years ended December 31, 2020
+Notes to Consolidated Financial Statements
+Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
+(2) Index to Financial Statement Schedules:
+All schedules have been omitted because the required information is included in the consolidated financial
+statements or the notes thereto, or because it is not required.
+(3) Index to Exhibits
+See exhibits listed under Part (b) below.
+(b) Exhibits:
+Exhibit
+Number Description
+3.1 Restated Certificate of Incorporation of the Company (incorporated by reference to the Company’s Current Report on
+Form 8K, filed May 29, 2020).
+3.2 Amended and Restated Bylaws of the Company (incorporated by reference to the Company’s Current Report on
+Form 8-K, filed May 29, 2020).
+4.1 Indenture, dated as of November 29, 2012, between Amazon.com, Inc. and Wells Fargo Bank, National Association, as
+trustee, and Form of 0.650% Note due 2015, Form of 1.200% Note due 2017, and Form of 2.500% Note due 2022
+(incorporated by reference to the Company’s Current Report on Form 8-K, filed November 29, 2012).
+4.2 Officers’ Certificate of Amazon.com, Inc., dated as of December 5, 2014, containing Form of 2.600% Note due 2019,
+Form of 3.300% Note due 2021, Form of 3.800% Note due 2024, Form of 4.800% Note due 2034, and Form of
+4.950% Note due 2044 (incorporated by reference to the Company’s Current Report on Form 8-K, filed December 5,
+2014).
+4.3 Officers’ Certificate of Amazon.com, Inc., dated as of August 22, 2017, containing Form of 1.900% Note due 2020,
+Form of 2.400% Note due 2023, Form of 2.800% Note due 2024, Form of 3.150% Note due 2027, Form of 3.875%
+Note due 2037, Form of 4.050% Note due 2047, and Form of 4.250% Note due 2057 (incorporated by reference to the
+Company’s Current Report on Form 8-K, filed August 22, 2017).
+4.4 Officers’ Certificate of Amazon.com, Inc., dated as of December 20, 2017, containing Form of 5.200% Note due 2025
+(incorporated by reference to the Company’s Current Report on Form 8-K, filed December 20, 2017).
+4.5 Officers’ Certificate of Amazon.com, Inc., dated as of June 3, 2020, containing Form of 0.400% Note due 2023, Form
+of 0.800% Note due 2025, Form of 1.200% Note due 2027, Form of 1.500% Note due 2030, Form of 2.500% Note
+due 2050, and Form of 2.700% Note due 2060 (incorporated by reference to the Company’s Current Report on Form
+8-K, filed June 3, 2020).
+4.6 Description of Securities (incorporated by reference to the Company’s Annual Report on Form 10-K for the Year
+ended December 31, 2019).
+10.1† 1997 Stock Incentive Plan (amended and restated) (incorporated by reference to the Company’s Quarterly Report on
+Form 10-Q for the Quarter ended March 31, 2013).
+72
+Table of Contents
+10.2† 1999 Nonofficer Employee Stock Option Plan (amended and restated) (incorporated by reference to the Company’s
+Quarterly Report on Form 10-Q for the Quarter ended March 31, 2013).
+10.3† Form of Indemnification Agreement between the Company and each of its Directors (incorporated by reference to
+Exhibit 10.1 to the Company’s Registration Statement on Form S-1 (Registration No. 333-23795) filed March 24,
+1997, as amended on April 21, 1997).
+10.4† Form of Restricted Stock Unit Agreement for Officers and Employees (incorporated by reference to the Company’s
+Annual Report on Form 10-K for the Year ended December 31, 2002).
+10.5† Form of Restricted Stock Unit Agreement for Directors (incorporated by reference to the Company’s Annual Report on
+Form 10-K for the Year ended December 31, 2002).
+10.6† Form of Restricted Stock Agreement (incorporated by reference to the Company’s Annual Report on Form 10-K for
+the Year ended December 31, 2001).
+10.7† Form of Global Restricted Stock Unit Award Agreement for Executive Officers (incorporated by reference to the
+Company’s Annual Report on Form 10-K for the Year ended December 31, 2018).
+10.8 Amended and Restated Credit Agreement, dated as of June 23, 2020, among Amazon.com, Inc., JPMorgan Chase
+Bank, N.A., as administrative agent, and the other lenders party thereto (incorporated by reference to the Company’s
+Current Report on Form 8-K, filed June 23, 2020).
+21.1 List of Significant Subsidiaries.
+23.1 Consent of Independent Registered Public Accounting Firm.
+31.1 Certification of Jeffrey P. Bezos, Chairman and Chief Executive Officer of Amazon.com, Inc., pursuant to Rule 13a-
+14(a) under the Securities Exchange Act of 1934.
+31.2 Certification of Brian T. Olsavsky, Senior Vice President and Chief Financial Officer of Amazon.com, Inc., pursuant to
+Rule 13a-14(a) under the Securities Exchange Act of 1934.
+32.1 Certification of Jeffrey P. Bezos, Chairman and Chief Executive Officer of Amazon.com, Inc., pursuant to 18 U.S.C.
+Section 1350.
+32.2 Certification of Brian T. Olsavsky, Senior Vice President and Chief Financial Officer of Amazon.com, Inc., pursuant to
+18 U.S.C. Section 1350.
+101 The following financial statements from the Company’s Annual Report on Form 10-K for the year ended December
+31, 2020, formatted in XBRL: (i) Consolidated Statements of Cash Flows, (ii) Consolidated Statements of Operations,
+(iii) Consolidated Statements of Comprehensive Income, (iv) Consolidated Balance Sheets, (v) Consolidated
+Statements of Stockholders’ Equity, and (vi) Notes to Consolidated Financial Statements, tagged as blocks of text and
+including detailed tags.
+As permitted by Item 601(b)(4)(iii)(A) of Regulation S-K, the Company has not filed with this Annual Report on Form
+10-K certain instruments defining the rights of holders of long-term debt of the Company and its subsidiaries because
+the total amount of securities authorized thereunder does not exceed 10 percent of the total assets of the Company and
+its subsidiaries on a consolidated basis. The Company agrees to furnish a copy of such agreements to the Commission
+upon request.
+104 The cover page from the Company’s Annual Report on Form 10-K for the year ended December 31, 2020, formatted
+in iXBRL (included as Exhibit 101).
+__________________
+† Executive Compensation Plan or Agreement.
+Item 16. Form 10-K Summary
+None.
+73
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused
+this Report to be signed on its behalf by the undersigned, thereunto duly authorized, as of February 2, 2021.
+AMAZON.COM, INC.
+By: /s/ Jeffrey P. Bezos
+Jeffrey P. Bezos
+President, Chief Executive Officer,
+and Chairman of the Board
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following
+persons on behalf of the registrant and in the capacities indicated as of February 2, 2021.
+Signature Title
+/s/ Jeffrey P. Bezos
+Jeffrey P. Bezos Chairman of the Board, President, and Chief Executive Officer
+(Principal Executive Officer)
+/s/ Brian T. Olsavsky
+Brian T. Olsavsky Senior Vice President and Chief Financial Officer (Principal Financial
+Officer)
+/s/ Shelley L. Reynolds
+Shelley L. Reynolds Vice President, Worldwide Controller (Principal Accounting Officer)
+/s/ Keith B. Alexander
+Keith B. Alexander Director
+/s/ Rosalind G. Brewer
+Rosalind G. Brewer Director
+/s/ Jamie S. Gorelick
+Jamie S. Gorelick Director
+/s/ Daniel P. Huttenlocher
+Daniel P. Huttenlocher Director
+/s/ Judith A. McGrath
+Judith A. McGrath Director
+/s/ Indra K. Nooyi
+Indra K. Nooyi Director
+/s/ Jonathan J. Rubinstein
+Jonathan J. Rubinstein Director
+/s/ Thomas O. Ryder
+Thomas O. Ryder Director
+/s/ Patricia Q. Stonesifer
+Patricia Q. Stonesifer Director
+/s/ Wendell P. Weeks
+Wendell P. Weeks Director
+74

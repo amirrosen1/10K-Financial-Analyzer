@@ -57,11 +57,11 @@ These instructions will help you get a copy of the project up and running on you
 ### 🏗️ Installing
 1. Clone the repository:
 ```bash
- git clone https://github.cs.huji.ac.il/avital-harel/HUJI-project.git
+ git clone https://github.com/amirrosen1/10K-Financial-Analyzer.git
 ```
 2. Navigate to the project directory:
 ```bash
- cd HUJI-project
+ cd 10K-Financial-Analyzer
 ```
 3. Install dependencies:
 ```bash
